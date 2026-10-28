@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "lines",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"xy_coordinate_resolution": 1e-15,
+"features": [
+{"type":"Feature","properties":{"Name":"Fishing","Description":null,"Date":null,"layer":"Fishing","path":"LineString?crs=EPSG:4326&field=Name:string(255,0)&field=Description:string(255,0)&uid={42b02f67-9f98-4783-84cf-b5aaa9f713b5}"},"geometry":{"type":"LineString","coordinates":[[113.194679121397741,23.193422633052517],[-89.245938992093173,-0.717106900528331]]}},
+{"type":"Feature","properties":{"Name":"Fishing","Description":null,"Date":null,"layer":"Fishing","path":"LineString?crs=EPSG:4326&field=Name:string(255,0)&field=Description:string(255,0)&uid={42b02f67-9f98-4783-84cf-b5aaa9f713b5}"},"geometry":{"type":"LineString","coordinates":[[-89.247161562951291,-0.719551850081144],[139.771535720748659,35.666979476275287]]}},
+{"type":"Feature","properties":{"Name":"Migration","Description":"From Guayaquil to the Seymour Airport was a common path for those migrating from the mainland. Overtime, the population on the islands became overwhelming. Violent protests broke out due to lack of resources. As a result the Special Law was passed.","Date":"-1998","layer":"Migration","path":"LineString?crs=EPSG:4326&field=Name:string(255,0)&field=Date:string(255,0)&field=Description:string(255,0)&uid={7463a1d1-094b-49f0-99cc-c91306d20ba0}"},"geometry":{"type":"LineString","coordinates":[[-79.893271927436729,-2.278970018601177],[-90.260672804336963,-0.440820260400894]]}}
+]
+}
