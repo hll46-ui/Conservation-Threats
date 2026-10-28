@@ -16,17 +16,11 @@ One important connection shown on the map is the relationship between migration 
 !["Image of illegal fishing"](images/Island(2).jpg)
 <br><br>
 As part of the Special Law of 1998, the government established the official Galápagos Marine Reserve (GMR), and extended the borders of the marine reserve to protect against industrial fishing. Unfortunately, as displayed in another connection on the map, fishing in these protected waters continued. The map includes lines connecting the marine reserve to Guangzhou, China, and Tokyo, Japan, representing international demand for seafood products such as shark fins, sea cucumbers, and tuna. This demand contributed to fishing pressures in the waters surrounding the islands, where illegal fishing threatened marine life and conservation efforts. The point marking the detainment of the Chinese vessel, Fu Yuan Yu Leng 999, near Punta Pitt on San Cristóbal Island shows that these threats were continuing into the 2010s. The map also shows that international connections can support conservation. I’ve yet to make the specific lines, however, an example of this connection includes the points marking UNESCO in Paris, the International Union for Conservation of Nature in Switzerland, and the Galápagos Conservation Trust in London. These locations/institutions show how organizations outside Ecuador have contributed to conservation and international oversight. 
-
-
- 
+<br><br>
 !["Image of fisherman rioting"](images/Island(1).jpg)
-
-
-
+<br><br>
 One limitation of the map is that it cannot show the full extent of the environmental damage caused by ships traveling through the Galápagos Marine Reserve. For example, it would be interesting to see the complete paths taken by ships involved in oil spills or illegal fishing, including how long they spent in protected waters before being detained. This would provide a better visual representation of their impact on the marine ecosystem. I also had to use general locations for some points because exact locations were difficult to establish. For example, vertically, the violent protests over fishing restrictions occurred across multiple islands, so a single point could not accurately represent all of these events. Horizontally, for organizations involved in conservation, I used their headquarters to represent their influence on the islands, even though their work may take place elsewhere. Similarly, I used general areas to represent fish markets in China and Japan because it was not possible to determine exactly where illegally caught sharks, lobsters, sea cucumbers, and other fish were sold. These limitations mean that some points represent broader areas or relationships rather than exact locations, and the map cannot fully capture the scale of the activities or their environmental consequences.
- 
+
 The sources used for this map mostly include government publications, conservation organizations, international institutions, and scholarly research. The Ecuadorian government’s legal and enforcement records provide information about conservation laws and illegal fishing cases, while UNESCO and the International Union for Conservation of Nature provide information about the islands’ international recognition and environmental risks. The Galápagos Conservation Trust and the Galápagos Conservancy provide examples of conservation programs, including efforts to remove invasive species. Scholarly research gave some helpful specifics on events that were publicized in the news, specifically with explaining the relationship between fishing markets and environmental pressures. I did have some trouble navigating the UNESCO webpage but it did prove to have great historical records. As I continue, I intend to include more sources along these lines and hopefully some sources with great images to display the specific events I’ve mentioned. 
-
-
- 
+<br><br>
 !["Image of invasive goats"](images/Island(3).jpg)
