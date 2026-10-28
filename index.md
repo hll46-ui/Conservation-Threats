@@ -12,13 +12,9 @@ style="border:1px solid #ccc; border-radius:8px;"></iframe>
 The Galápagos Islands were connected to other parts of the world, including mainland Ecuador, the U.S., parts of Western Europe, and parts of East Asia, primarily through conservation efforts and environmental threats, suggesting that the uniqueness of the islands’ ecosystem makes it vulnerable to a variety of threats that require international cooperation to adequately address.
  
 One important connection shown on the map is the relationship between migration from mainland Ecuador and conflicts over conservation policies within the Galápagos Islands. The line connecting Guayaquil to Seymour Airport on Baltra Island represents a common route for people traveling from the mainland to the islands. As the population grew, concerns about limited resources and environmental damage contributed to conflicts between local fishermen and conservation officials. The point on the map marking the violent protests in Puerto Ayora shows how these tensions sometimes escalated into violence, including protests against restrictions on fishing. In response to these concerns about population growth, overfishing, and environmental damage, Ecuador passed the Special Law for Galápagos in 1998. The point at Seymour Airport represents the importance of this law because the law introduced restrictions on migration intended to control population growth. Together, these locations and the migration line display how residents, especially new residents, can negatively impact the islands’ ecosystem. However, thanks to the Ecuadorian government’s dedication to conservation, policies continue to be developed to protect the land, the people, and the surrounding water. 
-
-
- 
+<br><br>
 !["Image of illegal fishing"](images/Island(2).jpg)
-
-
- 
+<br><br>
 As part of the Special Law of 1998, the government established the official Galápagos Marine Reserve (GMR), and extended the borders of the marine reserve to protect against industrial fishing. Unfortunately, as displayed in another connection on the map, fishing in these protected waters continued. The map includes lines connecting the marine reserve to Guangzhou, China, and Tokyo, Japan, representing international demand for seafood products such as shark fins, sea cucumbers, and tuna. This demand contributed to fishing pressures in the waters surrounding the islands, where illegal fishing threatened marine life and conservation efforts. The point marking the detainment of the Chinese vessel, Fu Yuan Yu Leng 999, near Punta Pitt on San Cristóbal Island shows that these threats were continuing into the 2010s. The map also shows that international connections can support conservation. I’ve yet to make the specific lines, however, an example of this connection includes the points marking UNESCO in Paris, the International Union for Conservation of Nature in Switzerland, and the Galápagos Conservation Trust in London. These locations/institutions show how organizations outside Ecuador have contributed to conservation and international oversight. 
 
 
