@@ -2,7 +2,7 @@
 
 A spatial history of your place and the places it was tied to.
 
-## The Galápagos Islands 1979-2019 -Interconnected Places
+## The Galápagos Islands 1979-2019- As an Interconnected Place
 
 <iframe src="map/" width="100%" height="520"
 style="border:1px solid #ccc; border-radius:8px;"></iframe>
