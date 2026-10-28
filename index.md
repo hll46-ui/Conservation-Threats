@@ -1,8 +1,8 @@
-# The Galápagos Islands: Conservation and Conflict
+# Conservation and Conflict on the Islands 1979-2019
 
 A spatial history of your place and the places it was tied to.
 
-## The Galápagos Islands 1979-2019- As an Interconnected Place
+## The Galápagos Islands- As an interconnected place
 
 <iframe src="map/" width="100%" height="520"
 style="border:1px solid #ccc; border-radius:8px;"></iframe>
