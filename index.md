@@ -4,6 +4,8 @@ layout: default
 
 {% include nav.html %}
 
+[Read the essay](essay.html)
+
 # Conservation and Conflict on the Islands 1979-2019
 
 A spatial history of your place and the places it was tied to.
