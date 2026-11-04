@@ -21,9 +21,15 @@ The sources used for this map mostly include government publications, conservati
 
 Where my map points came from, and how I collected them. (Talk about why I selected certain places to represent events)
 
+## Galapagos Marine Reserve
+
+Local fishermen and illegal fishing...
+
 ## Methodology
 
 Can include why I decided to show these particular locations
+
+## Limitations
 
 ## What my map cannot show
 
