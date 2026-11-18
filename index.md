@@ -4,7 +4,7 @@ layout: default
 
 {% include nav.html %}
 
-[Read the essay](essay.html)
+[View the essay](essay.html)
 
 # Conservation and Conflict on the Islands 1979-2019
 
@@ -18,7 +18,7 @@ style="border:1px solid #ccc; border-radius:8px;"></iframe>
 
 ## Trouble in Paradise
  
-The Galápagos Islands were connected to other parts of the world, including mainland Ecuador, the U.S., parts of Western Europe, and parts of East Asia, primarily through conservation efforts and environmental threats, suggesting that the uniqueness of the islands’ ecosystem makes it vulnerable to a variety of threats that require international cooperation to adequately address. (give little blurb about the islands, intro)
+The Galápagos Islands are an collection of islands in the Pacific Ocean, around 600 miles from mainland Ecuador. Only about 3% of the islands is inhabited by humans, consisting of four islands: Santa Cruz, San Cristóbal, Isabela, and Floreana. What makes this archipelago particularly special is that it's endemic to a multitude of species.  connected to other parts of the world, including mainland Ecuador, the U.S., parts of Western Europe, and parts of East Asia, primarily through conservation efforts and environmental threats, suggesting that the uniqueness of the islands’ ecosystem makes it vulnerable to a variety of threats that require international cooperation to adequately address. (give little blurb about the islands, intro)
 
 
 <br><br>
