@@ -20,12 +20,6 @@ style="border:1px solid #ccc; border-radius:8px;"></iframe>
  
 The Galápagos Islands are an collection of islands in the Pacific Ocean, around 600 miles from mainland Ecuador. Only about 3% of the islands is inhabited by humans, consisting of four islands: Santa Cruz, San Cristóbal, Isabela, and Floreana [^1]. What makes this archipelago particularly special is that the islands and surrounding waters are endemic to a multitude of species [^2]. Despite appearing quite secluded, the Galápagos Islands are connected to far reaches of the world. The map above and the following essay have narrowed their focus on mainland Ecuador, parts of Western Europe, and parts of East Asia, due to connected conservation efforts and environmental threats. Seeing as 97% of the islands are protected as a national park reserve for wildlife, they're vulnerable to a variety of threats that require international cooperation to adequately address. Over the years, the Ecuadorian government has made efforts to satisfy the need of the residents, wildlife, and ecosystem while also allowing for tourists to experience the one of a kind environment.
 
-| | | |
-| :---: | :---: | :---: |
-| !(Island(9).jpg) | !(Island(10).jpg) | !(Island(11).jpg) |
-| !(Island(12).jpg) | !(Island(13).jpg) | !(Island(14).jpg) |
-| !(Island(15).jpg) | !(Island(16).jpg) | !(Island(17).jpg) |
-
 [1]: Galapagos Conservation Trust, [*Global relevance*](https://galapagosconservation.org.uk/about-galapagos/why-galapagos-matters/global-relevance/).
 
 [2]: Galápagos Conservancy, [*Biodiversity*](https://www.galapagos.org/about_galapagos/biodiversity/).
