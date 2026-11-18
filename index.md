@@ -25,4 +25,5 @@ The Galápagos Islands are an collection of islands in the Pacific Ocean, around
 !["Image of invasive goats"](images/Island(3).jpg)
 <br><br>
 [1]: Galapagos Conservation Trust, [*Global relevance*](https://galapagosconservation.org.uk/about-galapagos/why-galapagos-matters/global-relevance/)
+
 [2]: Galápagos Conservancy, [*Biodiversity*](https://www.galapagos.org/about_galapagos/biodiversity/).
