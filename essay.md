@@ -5,7 +5,7 @@ title: A Journey in Conservation and Conflict
 
 {% include nav.html %}
 
-The Galápagos Islands were connected to other parts of the world, including mainland Ecuador, the U.S., parts of Western Europe, and parts of East Asia, primarily through conservation efforts and environmental threats, suggesting that the uniqueness of the islands’ ecosystem makes it vulnerable to a variety of threats that require international cooperation to adequately address.
+The Galápagos Islands were connected to other parts of the world, including mainland Ecuador, parts of Western Europe, and parts of East Asia, primarily through conservation efforts and environmental threats, suggesting that the uniqueness of the islands’ ecosystem makes it vulnerable to a variety of threats that require international cooperation to adequately address.
 
 ## Migration restrictions: Also tourism balancing invasive species risks while fueling the economy
 
@@ -19,7 +19,8 @@ As part of the Special Law of 1998, the government established the official Gal�
 <br><br>
 !["Image of illegal fishing"](images/Island(2).jpg)
 <br><br>
-## Limitations:
+
+## Map Limitations:
 
 One limitation of the map is that it cannot show the full extent of the environmental damage caused by ships traveling through the Galápagos Marine Reserve. For example, it would be interesting to see the complete paths taken by ships involved in oil spills or illegal fishing, including how long they spent in protected waters before being detained. This would provide a better visual representation of their impact on the marine ecosystem. I also had to use general locations for some points because exact locations were difficult to establish. For example, vertically, the violent protests over fishing restrictions occurred across multiple islands, so a single point could not accurately represent all of these events. Horizontally, for organizations involved in conservation, I used their headquarters to represent their influence on the islands, even though their work may take place elsewhere. Similarly, I used general areas to represent fish markets in China and Japan because it was not possible to determine exactly where illegally caught sharks, lobsters, sea cucumbers, and other fish were sold. These limitations mean that some points represent broader areas or relationships rather than exact locations, and the map cannot fully capture the scale of the activities or their environmental consequences.
 
