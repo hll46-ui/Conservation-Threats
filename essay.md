@@ -4,7 +4,9 @@ title: A Journey in Conservation and Conflict
 ---
 
 {% include nav.html %}
-
+<br><br>
+!["Image taken by Hannah Landman"](images/Island(4).jpg)
+<br><br>
 The Galápagos Islands are often recognized for their unique wildlife and importance to scientific research, but their history also involves conflict over who has the right to use and protect their natural resources. Although the islands are geographically distant from most of the world, secluded in the Pacific, their environmental history has been heavily influenced by activities taking place beyond their shores. The map provided, demonstrates how connections to mainland Ecuador, Eastern Asia, and Western Europe have contributed to both environmental threats and conservation efforts. In particular, migration, international and local fishing demand, and commercial shipping have placed pressure on the islands' ecosystem, while government policies and international organizations have attempted to address these issues. Ultimately, the history of the Galápagos demonstrates that protecting an isolated ecosystem requires large-scale cooperation between local communities, national governments, and international organizations.
 
 ## Migration Restrictions: Tourism and Population Growth
