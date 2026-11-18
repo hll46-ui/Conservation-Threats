@@ -57,6 +57,8 @@ One limitation of my map is that it cannot show the full extent of environmental
 Additionally, some points represent general locations rather than exact geographical boundaries. The international organizations are represented by their headquarters, even though their conservation work takes place elsewhere. The lines also simplify complicated economic relationships that involve multiple countries, industries, and fishing fleets. These limitations mean that the map represents broader historical relationships rather than the complete extent of every activity.
 
 Finally, it is important to note that Ecuador's official language is Spanish. Therefore, many pieces of legislation are written in Spanish. Unfortunately, I lack fluency in Spanish and do not have the resources as this time to translate a large amount of documents. As a result, the sources available have been limited to those with English translated versions or those written for English speaking audiences. 
-
+<br><br>
+!["Image taken by Hannah Landman of map displayed at the Charles Darwin Research Center"](images/Island(8).jpg)
+<br><br>
 ## Summary
 Ultimately, my map demonstrates that the Galápagos Islands have never been completely isolated from the rest of the world. Their environmental history has been shaped by migration, international markets, government policies, and conservation organizations. By placing these locations and events together geographically, the map reveals relationships that might be difficult to recognize through written descriptions alone. It allows us to see how decisions made thousands of miles away can have consequences for a relatively small group of islands, while also showing how international cooperation can help protect them.
