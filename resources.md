@@ -2,11 +2,8 @@
 layout: default
 title: Resources
 ---
-
 {% include nav.html %}
-
 Sources, readings, and tools that helped with this project.
-
 <div role="group" aria-label="Filter resources by category">
 <button type="button" data-filter="all" aria-pressed="true">All</button>
 {% assign cats = site.data.resources | map: "category" | uniq | sort %}
@@ -15,7 +12,6 @@ Sources, readings, and tools that helped with this project.
 pressed="false">{{ c }}</button>
 {% endfor %}
 </div>
-
 <ul style="list-style:none; padding-left:0;">
 {% for r in site.data.resources %}
 <li class="resource" data-category="{{ r.category | slugify }}">
@@ -26,7 +22,6 @@ pressed="false">{{ c }}</button>
 </li>
 {% endfor %}
 </ul>
-
 <script>
 document.addEventListener("DOMContentLoaded", function () {
 var buttons = document.querySelectorAll("[data-filter]");
