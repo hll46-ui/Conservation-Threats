@@ -22,11 +22,11 @@ The Galápagos Islands are an collection of islands in the Pacific Ocean, around
 
 | Image 1 | | Image 2 | | Image 3 |
 | :---: | :---: | :---: | :---: | :---: |
-| !(Island(9).png) | &nbsp;&nbsp;&nbsp; | !(Island(10).png) | &nbsp;&nbsp;&nbsp; | !(Island(11).png) |
+| !(Island(9).jpg) | &nbsp;&nbsp;&nbsp; | !(Island(10).jpg) | &nbsp;&nbsp;&nbsp; | !(Island(11).jpg) |
 | **Image 4** | | **Image 5** | | **Image 6** |
-| !(Island(12).png) | &nbsp;&nbsp;&nbsp; | !(Island(13).png) | &nbsp;&nbsp;&nbsp; | !(Island(14).png) |
+| !(Island(12).jpg) | &nbsp;&nbsp;&nbsp; | !(Island(13).jpg) | &nbsp;&nbsp;&nbsp; | !(Island(14).jpg) |
 | **Image 7** | | **Image 8** | | **Image 9** |
-| !(Island(15).png) | &nbsp;&nbsp;&nbsp; | !(Island(16).png) | &nbsp;&nbsp;&nbsp; | !(Island(17).png) |
+| !(Island(15).jpg) | &nbsp;&nbsp;&nbsp; | !(Island(16).jpg) | &nbsp;&nbsp;&nbsp; | !(Island(17).jpg) |
 
 [1]: Galapagos Conservation Trust, [*Global relevance*](https://galapagosconservation.org.uk/about-galapagos/why-galapagos-matters/global-relevance/).
 
