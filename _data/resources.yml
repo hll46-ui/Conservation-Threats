@@ -1,9 +1,11 @@
-- title: "Name of the first resource"
-  url: "https://example.org/first"
+- title: "Biodiversity"
+  url: "https://www.galapagos.org/about_galapagos/biodiversity/"
   category: "Article"
-  place: "My place"
-  added_by: "My name"
-  note: "One sentence on why it is useful."
+  place: "The Galápagos"
+  added_by: "Hannah Landman"
+  note: "The Galápagos Conservancy provides a detailed list of all of the species that make the Galápagos Islands unique."
+
+  
 - title: "Name of the second resource"
   url: "https://example.org/second"
   category: "Map"
