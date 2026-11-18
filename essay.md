@@ -32,6 +32,9 @@ Not all international connections have contributed to environmental threats. My 
 My map also includes Project Isabela and Project Pinzón, which demonstrate how conservation efforts have addressed environmental threats within the islands themselves. Project Isabela, initiated in 1997 and completed in 2006, focused on eliminating introduced goats, pigs, and donkeys that damaged native vegetation and wildlife habitats. Similarly, Project Pinzón successfully eradicated introduced rats in 2012. According to Galápagos Conservancy, the first surviving wild-born giant tortoise hatchlings were observed on Pinzón in 2014, marking the first successful natural reproduction there in more than a century. These projects demonstrate how scientific research, international funding, and cooperation with Ecuadorian conservation authorities have contributed to restoring damaged ecosystems.
 
 [^1]: John Davis, *Ecuadorian Government Agrees to Review Galapagos Fisheries Regulations Following Seizure of Park Facilities by Fishermen* (OCTO, 2004), page.
+<br><br>
+!["Image of invasive goats"](images/Island(3).jpg)
+<br><br>
 
 ## Methodology for Mapping
 I selected the period from approximately 1980 to 2019 because it captures several decades of growing tourism, migration, fishing conflicts, and conservation policies. This period also includes important events such as the 1998 Special Law, the 2001 Jessica oil spill, the 2007 UNESCO danger listing, and the 2017 detention of the Fu Yuan Yu Leng 999. Although some organizations and conservation efforts began earlier, I included them because they help explain the international relationships that developed during this period.
