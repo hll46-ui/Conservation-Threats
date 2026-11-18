@@ -4,8 +4,6 @@
   place: "My place"
   added_by: "My name"
   note: "One sentence on why it is useful."
-
-
 - title: "Name of the second resource"
   url: "https://example.org/second"
   category: "Map"
