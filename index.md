@@ -18,7 +18,7 @@ style="border:1px solid #ccc; border-radius:8px;"></iframe>
 
 ## Trouble in Paradise
  
-The Galápagos Islands are an collection of islands in the Pacific Ocean, around 600 miles from mainland Ecuador. Only about 3% of the islands is inhabited by humans, consisting of four islands: Santa Cruz, San Cristóbal, Isabela, and Floreana. What makes this archipelago particularly special is that it's endemic to a multitude of species [^1].  connected to other parts of the world, including mainland Ecuador, the U.S., parts of Western Europe, and parts of East Asia, primarily through conservation efforts and environmental threats, suggesting that the uniqueness of the islands’ ecosystem makes it vulnerable to a variety of threats that require international cooperation to adequately address. (give little blurb about the islands, intro)
+The Galápagos Islands are an collection of islands in the Pacific Ocean, around 600 miles from mainland Ecuador. Only about 3% of the islands is inhabited by humans, consisting of four islands: Santa Cruz, San Cristóbal, Isabela, and Floreana. What makes this archipelago particularly special is that the islands and surrounding waters are endemic to a multitude of species[^1]. Despite appearing quite secluded, the Galápagos Islands are connected to far reaches of the world. The map above and the following essay have narrowed their focus on mainland Ecuador, parts of Western Europe, and parts of East Asia, due to connected conservation efforts and environmental threats. Seeing as 97% of the islands are protected as a national park reserve for wildlife, they're vulnerable to a variety of threats that require international cooperation to adequately address. Over the years, the Ecuadorian government has 
 
 
 <br><br>
