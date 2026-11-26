@@ -13,46 +13,34 @@ title: A Journey in Conservation and Conflict
     </td>
   </tr>
 </table>
-
 The Galápagos Islands are often recognized for their unique wildlife and importance to scientific research, but their history also involves conflict over who has the right to use and protect their natural resources. Although the islands are geographically distant from most of the world, secluded in the Pacific, their environmental history has been heavily influenced by activities taking place beyond their shores. The map provided, demonstrates how connections to mainland Ecuador, Eastern Asia, and Western Europe have contributed to both environmental threats and conservation efforts. In particular, migration, international and local fishing demand, and commercial shipping have placed pressure on the islands' ecosystem, while government policies and international organizations have attempted to address these issues. Ultimately, the history of the Galápagos demonstrates that protecting an isolated ecosystem requires large-scale cooperation between local communities, national governments, and international organizations.
-
 <br clear="all">
-
-
-<table align="right">
-  <tr>
-    <td align="center">
-      <img src="images/Island(4).jpg" alt="Alt text" width="250">
-      <br>
-      <sub><em>Image taken by Hannah Landman on Isabela Island on June 29th 2022.</em></sub>
-    </td>
-  </tr>
-</table>
-The Galápagos Islands are often recognized for their unique wildlife and importance to scientific research, but their history also involves conflict over who has the right to use and protect their natural resources. Although the islands are geographically distant from most of the world, secluded in the Pacific, their environmental history has been heavily influenced by activities taking place beyond their shores. The map provided, demonstrates how connections to mainland Ecuador, Eastern Asia, and Western Europe have contributed to both environmental threats and conservation efforts. In particular, migration, international and local fishing demand, and commercial shipping have placed pressure on the islands' ecosystem, while government policies and international organizations have attempted to address these issues. Ultimately, the history of the Galápagos demonstrates that protecting an isolated ecosystem requires large-scale cooperation between local communities, national governments, and international organizations.
 
 ## Migration Restrictions: Tourism and Population Growth
 
-When looking at the map, an important connection between Guayaquil and Seymour Airport on Baltra Island is visible. This particular line depicts a common migration route. During the 1980s and 1990s, the growth of tourism created employment opportunities in the Galápagos, attracting people from mainland Ecuador [^1]. However, increasing migration also placed pressure on the islands' limited resources and contributed to concerns about environmental damage and invasive species. In response, Ecuador passed the Special Law for the Conservation and Sustainable Development of the Province of Galápagos in 1998 [^2]. The law introduced restrictions on migration and residency, regulated tourism and fishing, and strengthened protections for the islands' surrounding waters. The Galápagos Conservation Trust, established in 1995, also identifies the Special Law as an important development in establishing a framework for managing immigration and fisheries [^3].
-<table align="right">
+<table style="float: right; width: auto; margin-left: 20px; margin-bottom: 10px;">
   <tr>
-    <td align="center">
-      <img src="images/Island(7).jpg" alt="Alt text" width="250">
+    <td align="center" style="max-width: 250px;">
+      <img src="images/Island(7).jpg" alt="Research Station Sign" width="250">
       <br>
       <sub><em>Image taken by Hannah Landman at the Charles Darwin Research Station on June 28th 2022.</em></sub>
     </td>
   </tr>
 </table>
-The location of Seymour Airport is particularly important because it represents one of the main entry points for people traveling from mainland Ecuador. The migration line illustrates how the islands' growing popularity created challenges that required government intervention. However, these policies did not always receive support from the people most affected by them. Puerto Ayora is marked on the map as the location of several conflicts between local fishermen and conservation officials. In a March 2004 report, John Davis described how fishermen occupied and blockaded the Galápagos National Park Service and Charles Darwin Research Station for eight days, beginning February 19 [^4]. They demanded that the government reconsider fishing regulations that limited their ability to use marine resources. Earlier, a December 2000 report by journalist Jim Wyss in the San Francisco Chronicle documented violent protests following restrictions on lobster fishing [^5]. These events demonstrate that conservation does not stop at protecting wildlife. Bodies of authority must consider the serious implications their conservation policies will have on the livelihoods of the islands' inhabitants.
-<table align="left">
+When looking at the map, an important connection between Guayaquil and Seymour Airport on Baltra Island is visible. This particular line depicts a common migration route. During the 1980s and 1990s, the growth of tourism created employment opportunities in the Galápagos, attracting people from mainland Ecuador [^1]. However, increasing migration also placed pressure on the islands' limited resources and contributed to concerns about environmental damage and invasive species. In response, Ecuador passed the Special Law for the Conservation and Sustainable Development of the Province of Galápagos in 1998 [^2]. The law introduced restrictions on migration and residency, regulated tourism and fishing, and strengthened protections for the islands' surrounding waters. The Galápagos Conservation Trust, established in 1995, also identifies the Special Law as an important development in establishing a framework for managing immigration and fisheries [^3].
+<br clear="all">
+<table style="float: left; width: auto; margin-right: 20px; margin-bottom: 10px;">
   <tr>
-    <td align="center">
-      <img src="images/Island(1).jpg" alt="Alt text" width="250">
+    <td align="center" style="max-width: 250px;">
+      <img src="images/Island(1).jpg" alt="Violent Riots" width="250">
       <br>
-      <sub><em>Image of fisherman.</em></sub>
+      <sub><em>Image of fishermen rioting.</em></sub>
     </td>
   </tr>
 </table>
+The location of Seymour Airport is particularly important because it represents one of the main entry points for people traveling from mainland Ecuador. The migration line illustrates how the islands' growing popularity created challenges that required government intervention. However, these policies did not always receive support from the people most affected by them. Puerto Ayora is marked on the map as the location of several conflicts between local fishermen and conservation officials. In a March 2004 report, John Davis described how fishermen occupied and blockaded the Galápagos National Park Service and Charles Darwin Research Station for eight days, beginning February 19 [^4]. They demanded that the government reconsider fishing regulations that limited their ability to use marine resources. Earlier, a December 2000 report by journalist Jim Wyss in the San Francisco Chronicle documented violent protests following restrictions on lobster fishing [^5]. These events demonstrate that conservation does not stop at protecting wildlife. Bodies of authority must consider the serious implications their conservation policies will have on the livelihoods of the islands' inhabitants.
 <br clear="all">
+
 ## International Fishing and the Galápagos Marine Reserve
 
 Another important connection that is highlighted on the map is the relationship between Eastern Asia and fishing pressures within the Galápagos Marine Reserve (GMR). The fishing lines connecting the islands to Guangzhou and Tokyo represent international seafood demand, particularly for products such as shark fins, sea cucumbers, and tuna. These connections are representative of the international economic pressures associated with fishing, rather than depicting the exact routes these fishing vessels take. Research by Cáceres and other scholars, published in Environmental Management in 2022, examines the development of fisheries management in the Galápagos and the challenges of balancing conservation with the interests of local fishing communities. This helps explain why fishing restrictions have remained a source of conflict even after the establishment of protected waters [^6].
