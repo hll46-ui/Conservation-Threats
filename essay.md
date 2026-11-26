@@ -64,6 +64,7 @@ My map also includes Project Isabela and Project Pinzón, which demonstrate how 
 !["Image of invasive goats"](images/Island(3).jpg)
 <br><br>
 Then the Chinese sharkfin PSA...
+
 <iframe 
   width="560" 
   height="315" 
@@ -74,6 +75,7 @@ Then the Chinese sharkfin PSA...
   referrerpolicy="strict-origin-when-cross-origin" 
   allowfullscreen>
 </iframe>
+
 > "When the buying stops, the killing can too."
 >
 > Author, *Title* (Year), page.[^3]
