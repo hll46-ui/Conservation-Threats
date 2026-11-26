@@ -27,7 +27,16 @@ When looking at the map, an important connection between Guayaquil and Seymour A
     </td>
   </tr>
 </table>
-The location of Seymour Airport is particularly important because it represents one of the main entry points for people traveling from mainland Ecuador. The migration line illustrates how the islands' growing popularity created challenges that required government intervention. However, these policies did not always receive support from the people most affected by them. Puerto Ayora is makred on the map as the location of several conflicts between local fishermen and conservation officials. In a March 2004 report, John Davis described how fishermen occupied and blockaded the Galápagos National Park Service and Charles Darwin Research Station for eight days, beginning February 19 [^4]. They demanded that the government reconsider fishing regulations that limited their ability to use marine resources. Earlier, a December 2000 report by journalist Jim Wyss in the San Francisco Chronicle documented violent protests following restrictions on lobster fishing [^5]. These events demonstrate that conservation does not stop at protecting wildlife. Bodies of authority must consider the serious implications their conservation policies will have on the livelihoods of the islands' inhabitants.
+The location of Seymour Airport is particularly important because it represents one of the main entry points for people traveling from mainland Ecuador. The migration line illustrates how the islands' growing popularity created challenges that required government intervention. However, these policies did not always receive support from the people most affected by them. Puerto Ayora is marked on the map as the location of several conflicts between local fishermen and conservation officials. In a March 2004 report, John Davis described how fishermen occupied and blockaded the Galápagos National Park Service and Charles Darwin Research Station for eight days, beginning February 19 [^4]. They demanded that the government reconsider fishing regulations that limited their ability to use marine resources. Earlier, a December 2000 report by journalist Jim Wyss in the San Francisco Chronicle documented violent protests following restrictions on lobster fishing [^5]. These events demonstrate that conservation does not stop at protecting wildlife. Bodies of authority must consider the serious implications their conservation policies will have on the livelihoods of the islands' inhabitants.
+<table align="left">
+  <tr>
+    <td align="center">
+      <img src="images/Island(1).jpg" alt="Alt text" width="250">
+      <br>
+      <sub><em>Image of fisherman.</em></sub>
+    </td>
+  </tr>
+</table>
 <br><br>
 !["Image of fisherman rioting"](images/Island(1).jpg)
 <br><br>
