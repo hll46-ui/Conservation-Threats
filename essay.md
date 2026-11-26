@@ -102,7 +102,7 @@ My map also includes Project Isabela and Project Pinzón, which demonstrate how 
 
 Then the Chinese sharkfin PSA...
 
-[![WildAid PSA - Yao Ming: Shark Fin Soup](<images/Island(thumbnail).jpg>)]([https://youtu.be/mJG7RaLX-DM?si=WhP9ooEbvp3hQC3I])
+[![WildAid PSA - Yao Ming: Shark Fin Soup](<images/Island(thumbnail).jpg>)](https://youtu.be)
 
 
 > "When the buying stops, the killing can too."
