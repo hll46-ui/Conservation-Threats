@@ -126,3 +126,5 @@ Finally, it is important to note that Ecuador's official language is Spanish. Th
 
 ## Summary
 Ultimately, my map demonstrates that the Galápagos Islands have never been completely isolated from the rest of the world. Their environmental history has been shaped by migration, international markets, government policies, and conservation organizations. By placing these locations and events together geographically, the map reveals relationships that might be difficult to recognize through written descriptions alone. It allows us to see how decisions made thousands of miles away can have consequences for a relatively small group of islands, while also showing how international cooperation can help protect them.
+
+If you're interested in continuing to learn about the Galápagos' rich history and conservation efforts, take a look at my [Resources Page](resources.html) to find sources that may interest you or provide further detail on an event or subject you've learned about from this map. 
