@@ -52,7 +52,7 @@ The location of Seymour Airport is particularly important because it represents 
     </td>
   </tr>
 </table>
-
+<br clear="all">
 ## International Fishing and the Galápagos Marine Reserve
 
 Another important connection that is highlighted on the map is the relationship between Eastern Asia and fishing pressures within the Galápagos Marine Reserve (GMR). The fishing lines connecting the islands to Guangzhou and Tokyo represent international seafood demand, particularly for products such as shark fins, sea cucumbers, and tuna. These connections are representative of the international economic pressures associated with fishing, rather than depicting the exact routes these fishing vessels take. Research by Cáceres and other scholars, published in Environmental Management in 2022, examines the development of fisheries management in the Galápagos and the challenges of balancing conservation with the interests of local fishing communities. This helps explain why fishing restrictions have remained a source of conflict even after the establishment of protected waters [^6].
@@ -76,7 +76,7 @@ Additionally, the map includes Manta, Ecuador, an important fishing port that pr
     </td>
   </tr>
 </table>
-
+<br clear="all">
 ## International Collaboration and Environmental Restoration
 
 Not all international connections have contributed to environmental threats. My map also includes UNESCO in Paris, the International Union for Conservation of Nature (IUCN) in Gland, Switzerland, and the Galápagos Conservation Trust in London. These organizations represent the international attention given to protecting the islands. UNESCO first recognized the Galápagos Islands as a World Heritage Site in 1978 and extended recognition to the marine reserve in 2001. However, in 2007, the islands were added to the List of World Heritage in Danger because of concerns involving invasive species, human immigration, and uncontrolled tourism. UNESCO's April 2007 report documented these threats following an international assessment of the islands. In 2010, the islands were removed from the danger list following improvements in conservation efforts [^]. 
@@ -108,7 +108,7 @@ Then the Chinese sharkfin PSA...
 > "When the buying stops, the killing can too."
 >
 > Author, *Title* (Year), page.[^3]
-
+<br clear="all">
 ## Methodology for Mapping
 I selected the period from approximately 1980 to 2019 because it captures several decades of growing tourism, migration, fishing conflicts, and conservation policies. This period also includes important events such as the 1998 Special Law, the 2001 Jessica oil spill, the 2007 UNESCO danger listing, and the 2017 detention of the *Fu Yuan Yu Leng 999*. Although some organizations and conservation efforts began earlier, I included them because they help explain the international relationships that developed during this period.
 
@@ -129,7 +129,7 @@ Finally, it is important to note that Ecuador's official language is Spanish. Th
     </td>
   </tr>
 </table>
-
+<br clear="all">
 [^1]: John Davis, *Ecuadorian Government Agrees to Review Galapagos Fisheries Regulations Following Seizure of Park Facilities by Fishermen* (OCTO, 2004), page.
 ## Summary
 Ultimately, my map demonstrates that the Galápagos Islands have never been completely isolated from the rest of the world. Their environmental history has been shaped by migration, international markets, government policies, and conservation organizations. By placing these locations and events together geographically, the map reveals relationships that might be difficult to recognize through written descriptions alone. It allows us to see how decisions made thousands of miles away can have consequences for a relatively small group of islands, while also showing how international cooperation can help protect them.
