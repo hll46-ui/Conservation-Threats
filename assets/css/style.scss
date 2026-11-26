@@ -5,17 +5,10 @@
 
 .page-header {
   background-color: #ffffff;
-  background-image: linear-gradient(rgba(255, 255, 255, 0.35), rgba(255, 255, 255, 0.35)), url("{{ '/images/Island(ocean).jpg' | relative_url }}");
+  background-image: linear-gradient(rgba(255, 255, 255, 0.65), rgba(255, 255, 255, 0.65)), url("{{ '/images/Island(ocean).jpg' | relative_url }}");
   background-size: cover;
-  background-position: center;
+  background-position: top center;
   color: #0b4f6c;
 }
 .project-name { font-family: "Montserrat", sans-serif; font-weight: 700; color: #0b4f6c; }
 .project-tagline { font-family: "Lora", serif; font-style: italic; color: #2c3e45; opacity: 1; }
-.main-content { font-family: "Lora", Georgia, serif; font-size: 1.05rem; line-height: 1.75; color: #2c3e45; }
-.main-content h1, .main-content h2, .main-content h3 { font-family: "Montserrat", sans-serif; color: #0b4f6c; }
-.main-content a { color: #1b998b; }
-.main-content iframe { border: 0; border-radius: 10px; box-shadow: 0 6px 20px rgba(0,0,0,0.18); }
-.main-content blockquote { border-left: 4px solid #1b998b; background: #f2f9f9; padding: 0.4em 1em; font-style: italic; }
-.main-content img { border-radius: 8px; max-width: 100%; }
-figcaption { font-size: 0.85rem; color: #5a6a70; }
