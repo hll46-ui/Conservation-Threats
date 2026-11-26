@@ -10,7 +10,7 @@ A spatial history of the Galápagos Islands and the places it was tied to.
 
 ## The Galápagos Islands- As an interconnected place
 
-<iframe src="map/" width="100%" height="520"
+<iframe src="map/" width="150%" height="700"
 style="border:1px solid #ccc; border-radius:8px;"></iframe>
 <br><br>
 
