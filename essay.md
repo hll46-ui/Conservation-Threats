@@ -29,6 +29,7 @@ The Galápagos Islands are often recognized for their unique wildlife and import
 </table>
 When looking at the map, an important connection between Guayaquil and Seymour Airport on Baltra Island is visible. This particular line depicts a common migration route. During the 1980s and 1990s, the growth of tourism created employment opportunities in the Galápagos, attracting people from mainland Ecuador [^1]. However, increasing migration also placed pressure on the islands' limited resources and contributed to concerns about environmental damage and invasive species. In response, Ecuador passed the Special Law for the Conservation and Sustainable Development of the Province of Galápagos in 1998 [^2]. The law introduced restrictions on migration and residency, regulated tourism and fishing, and strengthened protections for the islands' surrounding waters. The Galápagos Conservation Trust, established in 1995, also identifies the Special Law as an important development in establishing a framework for managing immigration and fisheries [^3].
 <br clear="all">
+<br>
 <table style="float: left; width: auto; margin-right: 20px; margin-bottom: 10px;">
   <tr>
     <td align="center" style="max-width: 250px;">
@@ -44,6 +45,7 @@ The location of Seymour Airport is particularly important because it represents 
 ## International Fishing and the Galápagos Marine Reserve
 
 Another important connection that is highlighted on the map is the relationship between Eastern Asia and fishing pressures within the Galápagos Marine Reserve (GMR). The fishing lines connecting the islands to Guangzhou and Tokyo represent international seafood demand, particularly for products such as shark fins, sea cucumbers, and tuna. These connections are representative of the international economic pressures associated with fishing, rather than depicting the exact routes these fishing vessels take. Research by Cáceres and other scholars, published in Environmental Management in 2022, examines the development of fisheries management in the Galápagos and the challenges of balancing conservation with the interests of local fishing communities. This helps explain why fishing restrictions have remained a source of conflict even after the establishment of protected waters [^6].
+<br>
 <table style="float: right; width: auto; margin-left: 20px; margin-bottom: 10px;">
   <tr>
     <td align="center" style="max-width: 250px;">
@@ -55,6 +57,7 @@ Another important connection that is highlighted on the map is the relationship 
 </table>
 The GMR is a vertical place on the map because its  within the boundaries of the islands and serves as an important location in the Galápagos' conservational history, documenting the developments and threats to this location allow us to better understand the overall conflicts that the Ecuadorian government and supporting organizations have worked to resolve. Ecuador introduced marine protections in 1986 and strengthened the reserve through the 1998 Special Law. These protections were intended to limit industrial fishing and protect marine biodiversity. However, international fishing activity continued to threaten the surrounding ecosystem. One example is the Chinese fishing vessel *Fu Yuan Yu Leng 999*, which was detained near Punta Pitt on San Cristóbal Island in August 2017 [^7]. Unlike the GMR, this activity is recorded in the map as a horizontal place, connecting the protected waters and sealife within the island to the Guangzhou Seafood Markets in China. However, the *Fu Yuan Yu Leng 999* is notable for its 2017 interception and detainment by Ecuadorian authories. In a 2021 article published in Scientific Reports, Elisa Bonaccorso and other researchers examined the vessel's cargo, which contained 7,639 sharks representing twelve species [^8]. Their research demonstrated the scale of illegal fishing and the difficulty of protecting marine species from international fishing fleets operating near national marine reserves.
 <br clear="all">
+<br>
 <table style="float: left; width: auto; margin-right: 20px; margin-bottom: 10px;">
   <tr>
     <td align="center" style="max-width: 250px;">
@@ -79,6 +82,7 @@ Additionally, the map includes Manta, Ecuador, an important fishing port that pr
 </table>
 Not all international connections have contributed to environmental threats. My map also includes UNESCO in Paris, the International Union for Conservation of Nature (IUCN) in Gland, Switzerland, and the Galápagos Conservation Trust in London. These organizations represent the international attention given to protecting the islands. UNESCO first recognized the Galápagos Islands as a World Heritage Site in 1978 and extended recognition to the marine reserve in 2001. However, in 2007, the islands were added to the List of World Heritage in Danger because of concerns involving invasive species, human immigration, and uncontrolled tourism. UNESCO's April 2007 report documented these threats following an international assessment of the islands. In 2010, the islands were removed from the danger list following improvements in conservation efforts [^]. 
 <br clear="all">
+<br>
 <table style="float: left; width: auto; margin-right: 20px; margin-bottom: 10px;">
   <tr>
     <td align="center" style="max-width: 250px;">
@@ -104,6 +108,7 @@ Mainland Ecuador, Eastern Asia, and Western Europe are three clusters in this ma
 
 ## Limitations
 One limitation of my map is that it cannot show the full extent of environmental damage caused by human activity. For example, the fishing lines represent international demand but cannot show the exact routes taken by illegal fishing vessels or how long they remained within protected waters. The Jessica oil spill, which occurred in January 2001 near San Cristóbal Island, is another example of an environmental threat that cannot be fully represented by a single point. UNESCO's contemporaneous records describe how the tanker released fuel that spread across approximately 3,000 square kilometers of ocean, affecting wildlife across several islands. 
+<br>
 <table style="float: right; width: auto; margin-left: 20px; margin-bottom: 10px;">
   <tr>
     <td align="center" style="max-width: 250px;">
