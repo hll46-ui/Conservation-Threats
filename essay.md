@@ -40,10 +40,11 @@ When looking at the map, an important connection between Guayaquil and Seymour A
   </tr>
 </table>
 The location of Seymour Airport is particularly important because it represents one of the main entry points for people traveling from mainland Ecuador. The tourism and migration line illustrates how the islands' growing popularity created challenges that required government intervention. However, these policies did not always receive support from the people most affected by them. Puerto Ayora is marked on the map as the location of several conflicts between local fishermen and conservation officials. In a December 2000 report, South American correspondent Alex Bellos described how fishermen had taken tortoises hostage to protest the strict fishing quotas with residents saying:
+<br clear="all">
 > "They come and tell us that now we cannot do the same things we have done for a lifetime."
 >
 > Alex Bellos, Galapagos Turmoil: Tortoises Dragged into Fishing War (The Guardian, December 30, 2000). [^4]
-<br clear="all">
+
 The most notable protests occurred from 1995 to 2004 regarding fishing limits for sea cucumbers, sharks, lobsters, and the use of semi-industrial techniques. A 1995 New York Times article captures the energy and public mindset in the very beginning of this trend. Despite increased income for the Park Service, the municipalities failed to see in improvement in their quality of life, they felt neglected and in turn made dire threats including burning down facilities and slaughtering the protected wildlife. [^5] The public became more violent particularly in 1996 when protesters slit the throats of nine giant tortoises and then vandalizing and looting facilities and holding numerous individuals and animals hostage. [^6] These events demonstrate that conservation does not stop at protecting wildlife. Mainland Ecuador and the Galápagos Islands are deeply connected as represented by the line between the Manta port and Puerto Ayora. The Ecuadorian government has a long history of struggling to balance the needs of the residents and the needs of the wildlife and researchers. 
 
 ## International Fishing and the Galápagos Marine Reserve
