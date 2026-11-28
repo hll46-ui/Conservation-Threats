@@ -17,10 +17,10 @@ title: Resources
   .resource p { margin: 0.5em 0; }
   .resource a { color: #14506b; font-weight: 600; }
 
-  .resource[data-category="article"]         { --box-color: #2f7f9e; } /* ocean blue */
-  .resource[data-category="journal-article"] { --box-color: #1f6f78; } /* deep sea teal */
-  .resource[data-category="report"]          { --box-color: #6b625b; } /* volcanic rock */
-  .resource[data-category="legal-document"]  { --box-color: #b89a5e; } /* sand */
+  .resource[data-category="article"]         { --box-color: #2f7f9e; } 
+  .resource[data-category="journal-article"] { --box-color: #1f7869; } 
+  .resource[data-category="report"]          { --box-color: #7b9e2f; } 
+  .resource[data-category="legal-document"]  { --box-color: #1f7825; } 
 </style>
 
 Sources, readings, and tools that helped with this project.
