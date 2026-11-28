@@ -35,7 +35,7 @@ When looking at the map, an important connection between Guayaquil and Seymour A
     <td align="center" style="max-width: 250px;">
       <img src="images/Island(cucumber).jpg" alt="Brown sea cucumber" width="250">
       <br>
-      <sub><em>Image of brown sea cucumber (Isostichopus fuscus), a critically endangered species in part due to the illegal commercial harvesting of them around the islands.</em></sub>
+      <sub><em>Image of brown sea cucumber (Isostichopus fuscus), a critically endangered species in part due to the illegal commercial harvesting of them around the islands. [^26]</em></sub>
     </td>
   </tr>
 </table>
@@ -45,15 +45,6 @@ When looking at the map, an important connection between Guayaquil and Seymour A
       <img src="images/Island(lobster).jpg" alt="Red spiny lobster" width="250">
       <br>
       <sub><em>Image of red spiny lobster (Panulirus penicillatus); a species showing signs of recovery after overexploitation of them around the islands. [^27]</em></sub>
-    </td>
-  </tr>
-</table>
-<table style="float: left; width: auto; margin-right: 20px; margin-bottom: 10px;">
-  <tr>
-    <td align="center" style="max-width: 250px;">
-      <img src="images/Island(cucumber).jpg" alt="Brown sea cucumber" width="250">
-      <br>
-      <sub><em>Image of Isostichopus fuscus, commonly known as the brown sea cucumber, a critically endangered species in part due to the illegal commercial harvesting of them around the islands.</em></sub>
     </td>
   </tr>
 </table>
@@ -187,3 +178,4 @@ If you're interested in continuing to learn about the Galápagos' rich history a
 [^24]: UNESCO World Heritage Centre, *Galápagos Islands: State of Conservation, 2001* (UNESCO, accessed November 27, 2026).
 [^25]: Cedre, *Jessica* (Centre of Documentation, Research and Experimentation on Accidental Water Pollution, accessed November 27, 2026).
 [^26]: M. Verónica Toral-Granda, *The Use of Calcareous Spicules for the Identification of the Galápagos Sea Cucumber Isostichopus fuscus on the International Marke*t (SPC Beche-de-mer Information Bulletin 22, July 2005), pp. 3–5.
+[^27]: Castrejón Mauricioa, Viteri Cesarb, Moreno Jersonb, Vera Marianab, and Luis Suárez, *Galapagos Islands, Ecuador: Improving the Spiny Lobster Fishery in the Galapagos Marine Reserve* (Conservation International, January 2017), pp. 1-5.
