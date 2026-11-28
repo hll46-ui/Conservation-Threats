@@ -31,13 +31,13 @@ The location of Seymour Airport is particularly important because it represents 
   <div style="margin-bottom: 15px; text-align: center;">
     <img src="images/Island(cucumber).jpg" alt="Brown sea cucumber" width="250">
     <br>
-    <sub><em>Brown sea cucumber (Isostichopus fuscus), a species threatened by illegal commercial harvesting around the islands.<sup><a href="#fn26">26</a></sup></em></sub>
+    <sub><em>Brown sea cucumber (Isostichopus fuscus), a species threatened by illegal commercial harvesting around the islands.<sup><a href="#fn:26">26</a></sup></em></sub>
   </div>
 
   <div style="margin-bottom: 15px; text-align: center;">
     <img src="images/Island(lobster).jpg" alt="Red spiny lobster" width="250">
     <br>
-    <sub><em>Red spiny lobster (Panulirus penicillatus), a species showing signs of recovery following overexploitation.<sup><a href="#fn27">27</a></sup></em></sub>
+    <sub><em>Red spiny lobster (Panulirus penicillatus), a species showing signs of recovery following overexploitation.<sup><a href="#fn:27">27</a></sup></em></sub>
   </div>
 </div>
 The most notable protests occurred from 1995 to 2004 regarding fishing limits for sea cucumbers, sharks, lobsters, and the use of semi-industrial techniques. A 1995 New York Times article captures the energy and public mindset in the very beginning of this trend. Despite increased income for the Park Service, the municipalities failed to see an improvement in their quality of life, they felt neglected and in turn made dire threats including burning down facilities and slaughtering the protected wildlife. [^5] The public became more violent particularly in 1996 when protesters slit the throats of nine giant tortoises and then vandalizing and looting facilities and holding numerous individuals and animals hostage. [^6] These events demonstrate that conservation does not stop at protecting wildlife. Mainland Ecuador and the Galápagos Islands are deeply connected as represented by the line between the Manta port and Puerto Ayora. The Ecuadorian government has a long history of struggling to balance the needs of the residents and the needs of the wildlife and researchers.
@@ -46,7 +46,7 @@ The most notable protests occurred from 1995 to 2004 regarding fishing limits fo
     <td align="center" style="max-width: 500px;">
       <img src="images/Island(tortoise).jpg" alt="Giant tortoise" width="500">
       <br>
-      <sub><em>Galápagos giant tortoise, a species affected by historical human exploitation and introduced species.<sup><a href="#fn28">28</a></sup></em></sub>
+      <sub><em>Galápagos giant tortoise, a species affected by historical human exploitation and introduced species.<sup><a href="#fn:28">28</a></sup></em></sub>
     </td>
   </tr>
 </table>
@@ -62,7 +62,7 @@ The Galápagos Marine Reserve (GMR) is a clear example of a vertical place. Ecua
     <td align="center" style="max-width: 250px;">
       <img src="images/Island(shark).jpg" alt="Fu Yuan Yu Leng 999" width="250">
       <br>
-      <sub><em>Image assembled by research team depicting sample of shark carcasses seized from vessel Fu Yuan Yu Leng 999. (A.) inside one of the vessel freezers. (B.) unborn scalloped hammerhead sharks. (C.) whale shark. <sup><a href="#fn11">11</a></sup></em></sub>
+      <sub><em>Image assembled by research team depicting sample of shark carcasses seized from vessel Fu Yuan Yu Leng 999. (A.) inside one of the vessel freezers. (B.) unborn scalloped hammerhead sharks. (C.) whale shark. <sup><a href="#fn:11">11</a></sup></em></sub>
     </td>
   </tr>
 </table>
@@ -103,7 +103,7 @@ UNESCO first recognized the Galápagos as a World Heritage Site in 1978 and adde
     <td align="center" style="max-width: 300px;">
       <img src="images/Island(goat).jpg" alt="Invasive goats" width="300">
       <br>
-      <sub><em>Image of invasive feral goats on Islabela Island, feeding off the grass land and harmfully altering the giant tortoise environment.<sup><a href="#fn29">29</a></sup></em></sub>
+      <sub><em>Image of invasive feral goats on Islabela Island, feeding off the grass land and harmfully altering the giant tortoise environment.<sup><a href="#fn:29">29</a></sup></em></sub>
     </td>
   </tr>
 </table>
