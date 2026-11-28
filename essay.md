@@ -74,7 +74,7 @@ Pressure on the reserve also came from far away. The long lines from Guangzhou a
     <td align="center" style="max-width: 250px;">
       <img src="images/Island(shark).jpg" alt="Fu Yuan Yu Leng 999" width="250">
       <br>
-      <sub><em>Image assembled by research team depicting sample of shark carcasses seized in vessel *Fu Yuan Yu Leng 999*. (A.) inside one of the vessel freezers. (B.) unborn scalloped hammerhead sharks. (C.) whale shark. [^11]</em></sub>
+      <sub><em>Image assembled by research team depicting sample of shark carcasses seized in vessel *Fu Yuan Yu Leng 999*. (A.) inside one of the vessel freezers. (B.) unborn scalloped hammerhead sharks. (C.) whale shark. <sup><a href="#fn11">11</a></sup></em></sub>
     </td>
   </tr>
 </table>
