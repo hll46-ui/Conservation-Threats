@@ -100,8 +100,8 @@ UNESCO first recognized the Galápagos as a World Heritage Site in 1978 and adde
 <br>
 <table style="float: left; width: auto; margin-right: 20px; margin-bottom: 10px;">
   <tr>
-    <td align="center" style="max-width: 250px;">
-      <img src="images/Island(goat).jpg" alt="Invasive goats" width="250">
+    <td align="center" style="max-width: 300px;">
+      <img src="images/Island(goat).jpg" alt="Invasive goats" width="300">
       <br>
       <sub><em>Image of invasive feral goats on Islabela Island, feeding off the grass land and harmfully altering the giant tortoise environment.<sup><a href="#fn29">29</a></sup></em></sub>
     </td>
