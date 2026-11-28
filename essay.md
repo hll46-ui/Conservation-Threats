@@ -107,11 +107,17 @@ UNESCO first recognized the Galápagos as a World Heritage Site in 1978 and adde
 </table>
 The Galápagos Conservation Trust, established in London in 1995, is a different kind of horizontal place: a charity that raises support abroad for conservation in the islands. [^3] My map connects London to two restoration projects, which are vertical places because their results can be seen on particular islands. Project Isabela, initiated in 1997 and completed in 2006, set out to remove introduced goats, pigs, and donkeys from northern Isabela, Santiago, and Pinta, after goats had devastated the vegetation and tortoise habitat on Alcedo Volcano. [^17] GCT was one of several organizations that supported it. [^18] Project Pinzón followed. Introduced black rats had prevented Pinzón giant tortoise hatchlings from surviving for roughly a century. In December 2012, the Galápagos National Park Directorate, Island Conservation, and other partners eradicated the rats, and in December 2014 researchers found the first surviving wild hatchlings in more than 100 years. [^19] GCT lists the island's restoration among its projects. [^20] Together, these projects show how scientific research, international funding, and cooperation with Ecuadorian conservation authorities have helped restore damaged ecosystems.
 <br clear="all">
-
+<div style="float: left; width: 250px; margin-right: 20px; margin-bottom: 10px;">
+  <div style="margin-bottom: 15px; text-align: center;">
+    <img src="images/Island(yao).jpg" alt="Yao Ming ad" width="250">
+    <br>
+    <sub><em>WildAid and Yao Ming poster depicting PSA campaign to stop the consumption of shark fins.<sup><a href="#fn:30">30</a></sup></em></sub>
+  </div>
+</div>
 Conservation also happened far from the islands, in the markets that drive fishing. Two points in Eastern Asia, Taiwan and Beijing, capture this change. They have no lines to the islands because they represent shifts in policy and public attitudes, not flows of people or goods. In 2012, Taiwan adopted rules requiring sharks to be landed with their fins attached, and international media described it as the first Asian government to ban shark finning. [^21] [^22] In China, the conservation group WildAid began a shark fin campaign in 2006 that used public service announcements featuring basketball star Yao Ming, with a simple message:
 > "When the buying stops, the killing can too."
 >
-> WildAid, Evidence of Decline in Shark Fin Demand: China (WildAid, August 2014). [^23]
+> WildAid, *Evidence of Decline in Shark Fin Demand: China* (WildAid, August 2014). [^23]
 
 WildAid's own 2014 survey reported that shark fin vendors in Guangzhou saw sales fall by 82 percent over two years. [^23] Because this figure comes from the organization that ran the campaign, and because the Chinese government also announced a ban on shark fin at official banquets in 2012, the decline cannot be credited to a single cause. [^23] It also did not end the threat to sharks. The 2017 seizure of the *Fu Yuan Yu Leng 999* shows that pressure on shark populations continued.
 
@@ -145,7 +151,9 @@ Finally, Ecuador's official language is Spanish, so many pieces of legislation a
 Ultimately, my map demonstrates that the Galápagos Islands have never been completely isolated from the rest of the world. Their environmental history has been shaped by migration, international markets, government policies, and conservation organizations. By placing these locations and events together geographically, the map reveals relationships that might be difficult to recognize through written descriptions alone. It shows how decisions made thousands of miles away can have consequences for a relatively small group of islands, and how international cooperation can help protect them.
 
 If you're interested in continuing to learn about the Galápagos' rich history and conservation efforts, take a look at my [Resources Page](resources.html) to find sources that may interest you or provide further detail on an event or subject you've learned about from this map. 
-
+<br>
+<br>
+<br>
 <div markdown="1" style="display: none;">
 [^26] [^27] [^28] [^29]
 </div>
@@ -179,3 +187,4 @@ If you're interested in continuing to learn about the Galápagos' rich history a
 [^27]: Castrejón Mauricioa, Viteri Cesarb, Moreno Jersonb, Vera Marianab, and Luis Suárez, *Galapagos Islands, Ecuador: Improving the Spiny Lobster Fishery in the Galapagos Marine Reserve* (Conservation International, January 2017), pp. 1-5.
 [^28]: John Potts, *Galapagos Tortoise: Where, When & How to Spot These Gentle Giants* (Happy Gringo Travel, n.d.).
 [^29]: Jerry Guo, *The Galápagos Islands Kiss Their Goat Problem Good* (Science, September 15, 2006), pp. 1567.
+[^30]: WildAid, *NGOs Call on Thai Government to Ban Shark Fin at Banquets* (WildAid, December 12, 2019).
