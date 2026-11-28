@@ -49,6 +49,8 @@ The location of Seymour Airport is particularly important because it represents 
     <sub><em>Red spiny lobster (Panulirus penicillatus), a species showing signs of recovery following overexploitation.<sup><a href="#fn27">27</a></sup></em></sub>
   </div>
 </div>
+<div style="clear: both;"></div>
+
 <div style="float: right; width: 250px; margin-left: 20px; margin-bottom: 10px;">
   <div style="margin-bottom: 15px; text-align: center;">
     <img src="images/Island(tortoise).jpg" alt="Giant tortoise" width="250">
