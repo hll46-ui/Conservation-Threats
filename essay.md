@@ -10,8 +10,8 @@ The Galápagos Islands are often recognized for their unique wildlife and import
 
 <table style="float: right; width: auto; margin-left: 20px; margin-bottom: 10px;">
   <tr>
-    <td align="center" style="max-width: 260px;">
-      <img src="images/Island(7).jpg" alt="Research Station Sign" width="260">
+    <td align="center" style="max-width: 250px;">
+      <img src="images/Island(7).jpg" alt="Research Station Sign" width="250">
       <br>
       <sub><em>Image taken by Hannah Landman at the Charles Darwin Research Station on June 28th 2022.</em></sub>
     </td>
