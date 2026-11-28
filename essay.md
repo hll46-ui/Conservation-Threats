@@ -71,8 +71,8 @@ The clearest example of this connection is the detention of the *Fu Yuan Yu Leng
 <br>
 <table style="float: left; width: auto; margin-right: 20px; margin-bottom: 10px;">
   <tr>
-    <td align="center" style="max-width: 250px;">
-      <img src="images/Island(5).jpg" alt="Local Fish Market" width="250">
+    <td align="center" style="max-width: 300px;">
+      <img src="images/Island(5).jpg" alt="Local Fish Market" width="300">
       <br>
       <sub><em>Image taken by Hannah Landman of the Santa Cruz Fish Market (June 28, 2022).</em></sub>
     </td>
