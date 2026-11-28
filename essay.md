@@ -64,7 +64,7 @@ The Galápagos Marine Reserve (GMR) is a clear example of a vertical place. Ecua
 <br clear="all">
 Pressure on the reserve also came from far away. The long lines from Guangzhou and Tokyo are horizontal connections. They represent international seafood demand, particularly for shark fins and tuna, rather than the exact routes of any vessel. This demand matters because shark fishing driven by the fin trade is considered the leading cause of shark population declines worldwide. [^11]
 
-The clearest example of this connection is the detention of the Fu Yuan Yu Leng 999. This Chinese-flagged ship was a reefer, a refrigerated cargo vessel that collects catch from other boats instead of fishing itself. In August 2017, the Galápagos National Park's monitoring center alerted the Ecuadorian Navy to a large vessel crossing the reserve without authorization, and the ship was detained about twelve miles north of Punta Pitt on San Cristóbal Island. [^11] Its cargo included 7,639 sharks, one of the largest seizures recorded. Researchers examined a sample of 929 of them, about 12 percent, and identified twelve species, nine of which the IUCN considers Vulnerable or at higher risk. [^11] The vessel was escorted to Puerto Baquerizo Moreno, where a judge sentenced the crew to prison terms of between one and four years. [^11] [^12] Punta Pitt is a vertical place because it records one moment in the reserve's enforcement history. The lines from Guangzhou and Tokyo to Punta Pitt are symbolic. The research I cite does not trace this particular shipment to a named buyer, so the lines represent the wider markets that fuel this kind of fishing.
+The clearest example of this connection is the detention of the *Fu Yuan Yu Leng 999*. This Chinese-flagged ship was a reefer, a refrigerated cargo vessel that collects catch from other boats instead of fishing itself. In August 2017, the Galápagos National Park's monitoring center alerted the Ecuadorian Navy to a large vessel crossing the reserve without authorization, and the ship was detained about twelve miles north of Punta Pitt on San Cristóbal Island. [^11] Its cargo included 7,639 sharks, one of the largest seizures recorded. Researchers examined a sample of 929 of them, about 12 percent, and identified twelve species, nine of which the IUCN considers Vulnerable or at higher risk. [^11] The vessel was escorted to Puerto Baquerizo Moreno, where a judge sentenced the crew to prison terms of between one and four years. [^11] [^12] Punta Pitt is a vertical place because it records one moment in the reserve's enforcement history. The lines from Guangzhou and Tokyo to Punta Pitt are symbolic. The research I cite does not trace this particular shipment to a named buyer, so the lines represent the wider markets that fuel this kind of fishing.
 <br>
 <table style="float: left; width: auto; margin-right: 20px; margin-bottom: 10px;">
   <tr>
@@ -110,11 +110,11 @@ Conservation also happened far from the islands, in the markets that drive fishi
 >
 > WildAid, Evidence of Decline in Shark Fin Demand: China (WildAid, August 2014). [^23]
 
-WildAid's own 2014 survey reported that shark fin vendors in Guangzhou saw sales fall by 82 percent over two years. [^23] Because this figure comes from the organization that ran the campaign, and because the Chinese government also announced a ban on shark fin at official banquets in 2012, the decline cannot be credited to a single cause. [^23] It also did not end the threat to sharks. The 2017 seizure of the Fu Yuan Yu Leng 999 shows that pressure on shark populations continued.
+WildAid's own 2014 survey reported that shark fin vendors in Guangzhou saw sales fall by 82 percent over two years. [^23] Because this figure comes from the organization that ran the campaign, and because the Chinese government also announced a ban on shark fin at official banquets in 2012, the decline cannot be credited to a single cause. [^23] It also did not end the threat to sharks. The 2017 seizure of the *Fu Yuan Yu Leng 999* shows that pressure on shark populations continued.
 
 ## Methodology for Mapping
 
-I selected the period from approximately 1980 to 2019 because it captures several decades of growing tourism, migration, fishing conflict, and conservation policy. This period also includes important events such as the 1998 Special Law, the 2001 Jessica oil spill, the 2007 UNESCO danger listing, and the 2017 detention of the Fu Yuan Yu Leng 999. Some organizations and conservation efforts began earlier, but I included them because they help explain the international relationships that developed during this period.
+I selected the period from approximately 1980 to 2019 because it captures several decades of growing tourism, migration, fishing conflict, and conservation policy. This period also includes important events such as the 1998 Special Law, the 2001 Jessica oil spill, the 2007 UNESCO danger listing, and the 2017 detention of the *Fu Yuan Yu Leng 999*. Some organizations and conservation efforts began earlier, but I included them because they help explain the international relationships that developed during this period.
 
 The map uses points, lines, and polygons. Points mark specific places, and each one is classified as vertical (within the islands) or horizontal (connected to the islands from elsewhere), as explained above. Every point is named for a real place, and the event or theme it represents is described in its pop-up. Lines show the connections between places, such as migration and tourism, domestic and international fishing, national governance, conservation support, and international oversight. Polygons group places into clusters. Three clusters connect to the Galápagos Islands, which are also drawn as a polygon: Mainland Ecuador, Eastern Asia, and Western Europe. I chose these regions because each has a different relationship with the islands. Mainland Ecuador (Quito, Guayaquil, and Manta) represents migration, government policy, and domestic fishing. Eastern Asia (Guangzhou, Tokyo, Beijing, and Taiwan) represents seafood markets, fishing demand, and changing attitudes toward shark fin. Western Europe (Paris, London, and Gland) represents international conservation organizations and environmental oversight. The polygons are loose shapes drawn around their points to show the regions, not political borders.
 
@@ -143,28 +143,28 @@ Ultimately, my map demonstrates that the Galápagos Islands have never been comp
 
 If you're interested in continuing to learn about the Galápagos' rich history and conservation efforts, take a look at my [Resources Page](resources.html) to find sources that may interest you or provide further detail on an event or subject you've learned about from this map. 
 
-[^1]: Jimmy Martínez-Ortiz, Alexandre M. Aires-da-Silva, Cleridy E. Lennert-Cody, and Mark N. Maunder, The Ecuadorian Artisanal Fishery for Large Pelagics: Species Composition and Spatio-Temporal Dynamics (PLOS ONE, 2015).
-[^2]: MIT 12.000 Student Research Team, The Special Law of Galápagos (Massachusetts Institute of Technology, 2008).
-[^3]: Galapagos Conservation Trust, 30 Years of Galapagos Conservation Trust (Galapagos Conservation Trust, 2025).
-[^4]: Alex Bellos, Galapagos Turmoil: Tortoises Dragged into Fishing War (The Guardian, December 30, 2000). 
-[^5]: Douglas Jehl Schemo, Galapagos Islands Journal: Homo Sapiens at War on Darwin’s Peaceful Isles (The New York Times, November 28, 1995). 
-[^6]: Jim Wyss, Turmoil in Paradise: Galapagos Fishermen Revolt Against Strict Quota on Lobster (San Francisco Chronicle, December 10, 2000).
-[^7]: Andrés Pazmiño, Silvia Serrao-Neumann, and Darryl Low Choy, Towards Comprehensive Policy Integration for the Sustainability of Small Islands: A Landscape-Scale Planning Approach for the Galápagos Islands (Sustainability, 2018).
-[^8]: Tyler D. Eddy, Alan M. Friedlander, and Pelayo Salinas de León, Ecosystem Effects of Fishing and El Niño at the Galápagos Marine Reserve (PeerJ, 2019).
-[^9]: UNESCO World Heritage Committee, Decision 25 COM XB: Galápagos Islands [Extension to Include the Galápagos Marine Reserve] (UNESCO, 2001).
-[^10]: Renato Cáceres, Jeremy Pittman, Mauricio Castrejón, and Peter Deadman, The Evolution of Polycentric Governance in the Galapagos Small-Scale Fishing Sector (Environmental Management, 2022).
-[^11]: Elisa Bonaccorso et al., International Fisheries Threaten Globally Endangered Sharks in the Eastern Tropical Pacific Ocean: The Case of the Fu Yuan Yu Leng 999 Reefer Vessel Seized Within the Galápagos Marine Reserve (Scientific Reports, 2021).
-[^12]: Silvia Bor, Chinese Vessel Crew Detained in Galápagos Marine Reserve Sentenced for Transport and Possession of Endangered Sharks (WildAid, August 30, 2017).
-[^13]: Vishwanie Maharaj, Complications of Designing Tenure Rights Programs for Highly Migratory Fisheries: Eastern Pacific Tropical Tuna Fisheries (Food and Agriculture Organization of the United Nations, n.d.).
-[^14]: UNESCO World Heritage Centre, Galápagos Islands: State of Conservation (UNESCO, accessed November 27, 2026).
-[^15]: International Union for Conservation of Nature, Thirteen World Heritage Sites Stay on Danger List (IUCN, 2009).
-[^16]: UNESCO World Heritage Committee, Decision 34 COM 7A.15: Galápagos Islands (Ecuador) (UNESCO, 2010).
-[^17]: Galapagos Conservancy, Project Isabela (Galapagos Conservancy, accessed November 27, 2026).
-[^18]: Galapagos Conservation Trust, Isabela: Island Overview (Galapagos Conservation Trust, accessed November 27, 2026).
-[^19]: Galapagos Conservancy, Project Pinzón (Galapagos Conservancy, accessed November 27, 2026).
-[^20]: Galapagos Conservation Trust, Pinzón Island Restoration (Galapagos Conservation Trust, accessed November 27, 2026).
-[^21]: Council of Agriculture, Executive Yuan (Taiwan), Directions on the Disposal of the Fins of the Shark Catches of Fishing Vessels (January 19, 2012).
-[^22]: In First for Asia, Taiwan to Ban Shark Finning (TIME, 2011).
-[^23]: WildAid, Evidence of Decline in Shark Fin Demand: China (WildAid, August 2014).
-[^24]: UNESCO World Heritage Centre, Galápagos Islands: State of Conservation, 2001 (UNESCO, accessed November 27, 2026).
-[^25]: Cedre, Jessica (Centre of Documentation, Research and Experimentation on Accidental Water Pollution, accessed November 27, 2026).
+[^1]: Jimmy Martínez-Ortiz, Alexandre M. Aires-da-Silva, Cleridy E. Lennert-Cody, and Mark N. Maunder, *The Ecuadorian Artisanal Fishery for Large Pelagics: Species Composition and Spatio-Temporal Dynamics* (PLOS ONE, 2015).
+[^2]: MIT 12.000 Student Research Team, *The Special Law of Galápagos* (Massachusetts Institute of Technology, 2008).
+[^3]: Galapagos Conservation Trust, *30 Years of Galapagos Conservation Trust* (Galapagos Conservation Trust, 2025).
+[^4]: Alex Bellos, *Galapagos Turmoil: Tortoises Dragged into Fishing War* (The Guardian, December 30, 2000). 
+[^5]: Douglas Jehl Schemo, *Galapagos Islands Journal: Homo Sapiens at War on Darwin’s Peaceful Isles* (The New York Times, November 28, 1995). 
+[^6]: Jim Wyss, *Turmoil in Paradise: Galapagos Fishermen Revolt Against Strict Quota on Lobster* (San Francisco Chronicle, December 10, 2000).
+[^7]: Andrés Pazmiño, *Silvia Serrao-Neumann, and Darryl Low Choy, Towards Comprehensive Policy Integration for the Sustainability of Small Islands: A Landscape-Scale Planning Approach for the Galápagos Islands* (Sustainability, 2018).
+[^8]: Tyler D. Eddy, Alan M. Friedlander, and Pelayo Salinas de León, *Ecosystem Effects of Fishing and El Niño at the Galápagos Marine Reserve* (PeerJ, 2019).
+[^9]: UNESCO World Heritage Committee, *Decision 25 COM XB: Galápagos Islands* [Extension to Include the Galápagos Marine Reserve] (UNESCO, 2001).
+[^10]: Renato Cáceres, Jeremy Pittman, Mauricio Castrejón, and Peter Deadman, *The Evolution of Polycentric Governance in the Galapagos Small-Scale Fishing Sector* (Environmental Management, 2022).
+[^11]: Elisa Bonaccorso et al., *International Fisheries Threaten Globally Endangered Sharks in the Eastern Tropical Pacific Ocean: The Case of the Fu Yuan Yu Leng 999 Reefer Vessel Seized Within the Galápagos Marine Reserve* (Scientific Reports, 2021).
+[^12]: Silvia Bor, *Chinese Vessel Crew Detained in Galápagos Marine Reserve Sentenced for Transport and Possession of Endangered Sharks* (WildAid, August 30, 2017).
+[^13]: Vishwanie Maharaj, *Complications of Designing Tenure Rights Programs for Highly Migratory Fisheries: Eastern Pacific Tropical Tuna Fisheries* (Food and Agriculture Organization of the United Nations, n.d.).
+[^14]: UNESCO World Heritage Centre, *Galápagos Islands: State of Conservation* (UNESCO, accessed November 27, 2026).
+[^15]: International Union for Conservation of Nature, *Thirteen World Heritage Sites Stay on Danger List* (IUCN, 2009).
+[^16]: UNESCO World Heritage Committee, *Decision 34 COM 7A.15: Galápagos Islands (Ecuador)* (UNESCO, 2010).
+[^17]: Galapagos Conservancy, *Project Isabela* (Galapagos Conservancy, accessed November 27, 2026).
+[^18]: Galapagos Conservation Trust, *Isabela: Island Overview* (Galapagos Conservation Trust, accessed November 27, 2026).
+[^19]: Galapagos Conservancy, *Project Pinzón* (Galapagos Conservancy, accessed November 27, 2026).
+[^20]: Galapagos Conservation Trust, *Pinzón Island Restoration* (Galapagos Conservation Trust, accessed November 27, 2026).
+[^21]: Council of Agriculture, *Executive Yuan (Taiwan), Directions on the Disposal of the Fins of the Shark Catches of Fishing Vessels* (January 19, 2012).
+[^22]: In First for Asia, *Taiwan to Ban Shark Finning* (TIME, 2011).
+[^23]: WildAid, *Evidence of Decline in Shark Fin Demand: China* (WildAid, August 2014).
+[^24]: UNESCO World Heritage Centre, *Galápagos Islands: State of Conservation, 2001* (UNESCO, accessed November 27, 2026).
+[^25]: Cedre, *Jessica* (Centre of Documentation, Research and Experimentation on Accidental Water Pollution, accessed November 27, 2026).
