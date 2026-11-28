@@ -13,7 +13,7 @@ The Galápagos Islands are often recognized for their unique wildlife and import
     <td align="center" style="max-width: 250px;">
       <img src="images/Island(7).jpg" alt="Research Station Sign" width="250">
       <br>
-      <sub><em>Image taken by Hannah Landman at the Charles Darwin Research Station on June 28th 2022.</em></sub>
+      <sub><em>Image taken by Hannah Landman at the Charles Darwin Research Station (June 28, 2022).</em></sub>
     </td>
   </tr>
 </table>
@@ -41,7 +41,7 @@ The location of Seymour Airport is particularly important because it represents 
   </div>
 </div>
 The most notable protests occurred from 1995 to 2004 regarding fishing limits for sea cucumbers, sharks, lobsters, and the use of semi-industrial techniques. A 1995 New York Times article captures the energy and public mindset in the very beginning of this trend. Despite increased income for the Park Service, the municipalities failed to see an improvement in their quality of life, they felt neglected and in turn made dire threats including burning down facilities and slaughtering the protected wildlife. [^5] The public became more violent particularly in 1996 when protesters slit the throats of nine giant tortoises and then vandalizing and looting facilities and holding numerous individuals and animals hostage. [^6] These events demonstrate that conservation does not stop at protecting wildlife. Mainland Ecuador and the Galápagos Islands are deeply connected as represented by the line between the Manta port and Puerto Ayora. The Ecuadorian government has a long history of struggling to balance the needs of the residents and the needs of the wildlife and researchers.
-<table style="float: right; width: auto; margin-left: 10px; margin-bottom: 10px;">
+<table style="float: right; width: auto; margin-left: 20px; margin-bottom: 10px;">
   <tr>
     <td align="center" style="max-width: 500px;">
       <img src="images/Island(tortoise).jpg" alt="Giant tortoise" width="500">
@@ -56,7 +56,7 @@ The most notable protests occurred from 1995 to 2004 regarding fishing limits fo
 
 Before turning to the fishing lines, it helps to explain how I sorted the places on my map into two types: vertical and horizontal. A vertical place is a location inside the Galápagos where history builds up in layers, so a single spot can be read through the laws, conflicts, and restoration projects that happened there over time. A horizontal place is a location outside the islands, such as a port, a market, or an organization's headquarters, whose importance comes from how it reaches out and connects to the Galápagos through trade, migration, funding, or oversight. The lines on the map tie the two together by showing how demand and decisions in horizontal places shaped events in vertical ones.
 
-The Galápagos Marine Reserve (GMR) is a clear example of a vertical place. Ecuador first protected the surrounding waters in 1986 as the Galápagos Marine Resources Reserve, a 15-nautical-mile buffer around the islands, but this early reserve did not have formal protected-area status. [^7] The 1998 Special Law created the GMR as it is known today, extending protection 40 nautical miles from the islands and excluding industrial fishing fleets. [^7] [^8] UNESCO added the marine reserve to the Galápagos World Heritage Site in 2001. [^9] On the map, two lines run from Quito, which represents Ecuador's national government, to the Special Law and to the GMR, because these protections were written and enforced by the national government. The Special Law is placed at Seymour Airport, where its migration controls are most visible to people arriving from the mainland. Even with this framework, managing fishing has never been the work of one agency alone. Cáceres and colleagues study how governance of the islands' small-scale fishing sector developed through collaboration among many organizations at different levels, which helps explain why fishing rules have remained contested. [^10]
+The Galápagos Marine Reserve (GMR) is a clear example of a vertical place. Ecuador first protected the surrounding waters in 1986 as the Galápagos Marine Resources Reserve, a 15-nautical-mile buffer around the islands, but this early reserve did not have formal protected-area status. [^7] The 1998 Special Law created the GMR as it is known today, extending protection 40 nautical miles from the islands and excluding industrial fishing fleets. [^7] [^8] UNESCO added the marine reserve to the Galápagos World Heritage Site in 2001. [^9] On the map, two lines run from Quito, which represents Ecuador's national government, to the Special Law and to the GMR, because these protections were written and enforced by the national government. The Special Law is placed at Seymour Airport, where its migration controls are most visible to people arriving from the mainland. Even with this framework, managing fishing has never been the work of one agency alone. Researchers have studied how governance of the islands' small-scale fishing sector developed through collaboration among many organizations at different levels, which helps explain why fishing rules have remained contested. [^10]
 <table style="float: right; width: auto; margin-left: 20px; margin-bottom: 10px;">
   <tr>
     <td align="center" style="max-width: 250px;">
@@ -76,7 +76,7 @@ The clearest example of this connection is the detention of the *Fu Yuan Yu Leng
     <td align="center" style="max-width: 250px;">
       <img src="images/Island(5).jpg" alt="Local Fish Market" width="250">
       <br>
-      <sub><em>Image taken by Hannah Landman of the Santa Cruz Fish Market.</em></sub>
+      <sub><em>Image taken by Hannah Landman of the Santa Cruz Fish Market (June 28, 2022).</em></sub>
     </td>
   </tr>
 </table>
@@ -89,7 +89,7 @@ Not all fishing pressure came from overseas. Manta is Ecuador's major tuna port 
     <td align="center" style="max-width: 250px;">
       <img src="images/Island(8).jpg" alt="Inside Research Center" width="250">
       <br>
-      <sub><em>Image taken by Hannah Landman of the inside of the Charles Darwin Research Center on Santa Cruz Island.</em></sub>
+      <sub><em>Image taken by Hannah Landman of the inside of the Charles Darwin Research Center on Santa Cruz Island (June 28, 2022).</em></sub>
     </td>
   </tr>
 </table>
@@ -101,9 +101,9 @@ UNESCO first recognized the Galápagos as a World Heritage Site in 1978 and adde
 <table style="float: left; width: auto; margin-right: 20px; margin-bottom: 10px;">
   <tr>
     <td align="center" style="max-width: 250px;">
-      <img src="images/Island(3).jpg" alt="Invasive Goats" width="250">
+      <img src="images/Island(goat).jpg" alt="Invasive goats" width="250">
       <br>
-      <sub><em>Image of invasive goats.</em></sub>
+      <sub><em>Image of invasive feral goats on Islabela Island, feeding off the grass land and harmfully altering the giant tortoise environment.<sup><a href="#fn29">29</a></sup></em></sub>
     </td>
   </tr>
 </table>
@@ -176,3 +176,4 @@ If you're interested in continuing to learn about the Galápagos' rich history a
 [^26]: M. Verónica Toral-Granda, *The Use of Calcareous Spicules for the Identification of the Galápagos Sea Cucumber Isostichopus fuscus on the International Market* (SPC Beche-de-mer Information Bulletin 22, July 2005), pp. 3–5.
 [^27]: Castrejón Mauricioa, Viteri Cesarb, Moreno Jersonb, Vera Marianab, and Luis Suárez, *Galapagos Islands, Ecuador: Improving the Spiny Lobster Fishery in the Galapagos Marine Reserve* (Conservation International, January 2017), pp. 1-5.
 [^28]: John Potts, *Galapagos Tortoise: Where, When & How to Spot These Gentle Giants* (Happy Gringo Travel, n.d.).
+[^29]: Jerry Guo, *The Galápagos Islands Kiss Their Goat Problem Good* (Science, September 15, 2006), pp. 1567.
