@@ -5,21 +5,22 @@ title: Resources
 {% include nav.html %}
 <style>
   .resource {
-    --box-color: #4a90a4;               /* default color for every box */
+    --box-color: #5b8c5a;               
     margin-bottom: 2em;
     padding: 1em 1.25em;
+    color: #1f2a2e;
     border: 2px solid var(--box-color);
     border-radius: 12px;
-    background: color-mix(in srgb, var(--box-color) 12%, white);
+    background: color-mix(in srgb, var(--box-color) 14%, white);
   }
-  .resource[hidden] { display: none; }  /* keeps the filters working */
+  .resource[hidden] { display: none; }
   .resource p { margin: 0.5em 0; }
+  .resource a { color: #14506b; font-weight: 600; }
 
-  /* Optional: one color per category */
-  .resource[data-category="article"]         { --box-color: #4a90a4; }
-  .resource[data-category="journal-article"] { --box-color: #7b6bb5; }
-  .resource[data-category="report"]          { --box-color: #d98c3f; }
-  .resource[data-category="legal-document"]  { --box-color: #5a9a63; }
+  .resource[data-category="article"]         { --box-color: #2f7f9e; } /* ocean blue */
+  .resource[data-category="journal-article"] { --box-color: #1f6f78; } /* deep sea teal */
+  .resource[data-category="report"]          { --box-color: #6b625b; } /* volcanic rock */
+  .resource[data-category="legal-document"]  { --box-color: #b89a5e; } /* sand */
 </style>
 
 Sources, readings, and tools that helped with this project.
