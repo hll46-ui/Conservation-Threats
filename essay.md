@@ -57,8 +57,8 @@ Before turning to the fishing lines, it helps to explain how I sorted the places
 The Galápagos Marine Reserve (GMR) is a clear example of a vertical place. Ecuador first protected the surrounding waters in 1986 as the Galápagos Marine Resources Reserve, a 15-nautical-mile buffer around the islands, but this early reserve did not have formal protected-area status. [^7] The 1998 Special Law created the GMR as it is known today, extending protection 40 nautical miles from the islands and excluding industrial fishing fleets. [^7] [^8] UNESCO added the marine reserve to the Galápagos World Heritage Site in 2001. [^9] On the map, two lines run from Quito, which represents Ecuador's national government, to the Special Law and to the GMR, because these protections were written and enforced by the national government. The Special Law is placed at Seymour Airport, where its migration controls are most visible to people arriving from the mainland. Even with this framework, managing fishing has never been the work of one agency alone. Researchers have studied how governance of the islands' small-scale fishing sector developed through collaboration among many organizations at different levels, which helps explain why fishing rules have remained contested. [^10]
 <table style="float: right; width: auto; margin-left: 20px; margin-bottom: 10px;">
   <tr>
-    <td align="center" style="max-width: 250px;">
-      <img src="images/Island(shark).jpg" alt="Fu Yuan Yu Leng 999" width="250">
+    <td align="center" style="max-width: 300px;">
+      <img src="images/Island(shark).jpg" alt="Fu Yuan Yu Leng 999" width="300">
       <br>
       <sub><em>Image assembled by research team depicting sample of shark carcasses seized from vessel Fu Yuan Yu Leng 999. (A.) inside one of the vessel freezers. (B.) unborn scalloped hammerhead sharks. (C.) whale shark. <sup><a href="#fn:11">11</a></sup></em></sub>
     </td>
