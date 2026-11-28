@@ -155,7 +155,7 @@ If you're interested in continuing to learn about the Galápagos' rich history a
 <br>
 <br>
 <div markdown="1" style="display: none;">
-[^26] [^27] [^28] [^29]
+[^26] [^27] [^28] [^29] [^30]
 </div>
 
 [^1]: Jimmy Martínez-Ortiz, Alexandre M. Aires-da-Silva, Cleridy E. Lennert-Cody, and Mark N. Maunder, *The Ecuadorian Artisanal Fishery for Large Pelagics: Species Composition and Spatio-Temporal Dynamics* (PLOS ONE, 2015).
