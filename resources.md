@@ -18,7 +18,7 @@ title: Resources
   .resource a { color: #14506b; font-weight: 600; }
 
   .resource[data-category="article"]         { --box-color: #2f7f9e; } 
-  .resource[data-category="journal-article"] { --box-color: #1f7869; } 
+  .resource[data-category="journal-article"] { --box-color: #6b625b; } 
   .resource[data-category="report"]          { --box-color: #7b9e2f; } 
   .resource[data-category="legal-document"]  { --box-color: #1f7825; } 
 </style>
