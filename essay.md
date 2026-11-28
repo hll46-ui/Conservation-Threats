@@ -23,7 +23,8 @@ When looking at the map, an important connection between Guayaquil and Seymour A
 The location of Seymour Airport is particularly important because it represents one of the main entry points for people traveling from mainland Ecuador. The tourism and migration line illustrates how the islands' growing popularity created challenges that required government intervention. However, these policies did not always receive support from the people most affected by them. Puerto Ayora is marked on the map as the location of several conflicts between local fishermen and conservation officials. In a December 2000 report, South American correspondent Alex Bellos described how fishermen had taken tortoises hostage to protest the strict fishing quotas with residents saying:
 > "They come and tell us that now we cannot do the same things we have done for a lifetime."
 >
-> Alex Bellos, Galapagos Turmoil: Tortoises Dragged into Fishing War (The Guardian, December 30, 2000). [^4]
+> Alex Bellos, *Galapagos Turmoil: Tortoises Dragged into Fishing War* (The Guardian, December 30, 2000). [^4]
+
 <br>
 <br>
 <div style="float: left; width: 250px; margin-right: 20px; margin-bottom: 10px;">
