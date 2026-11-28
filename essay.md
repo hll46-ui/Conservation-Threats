@@ -29,32 +29,29 @@ The Galápagos Islands are often recognized for their unique wildlife and import
 </table>
 When looking at the map, an important connection between Guayaquil and Seymour Airport on Baltra Island is visible. This particular line depicts a common migration and tourism route. During the 1980s, 1990s, and 2000s, the growth of tourism created employment opportunities in the Galápagos, attracting people from mainland Ecuador. [^1] However, increasing migration also placed pressure on the islands' limited resources and contributed to concerns about environmental damage and invasive species. In response, Ecuador passed the Special Law for the Conservation and Sustainable Development of the Province of Galápagos in 1998. [^2] The law introduced restrictions on migration and residency, regulated tourism and fishing, and strengthened protections for the islands' surrounding waters. The Galápagos Conservation Trust, established in 1995, also identifies the Special Law as an important development in establishing a framework for managing immigration and fisheries. [^3] 
 <br clear="all">
-<br>
-<table style="float: left; width: auto; margin-right: 20px; margin-bottom: 10px;">
-  <tr>
-    <td align="center" style="max-width: 250px;">
-      <img src="images/Island(cucumber).jpg" alt="Brown sea cucumber" width="250">
-      <br>
-      <sub><em>Image of brown sea cucumber (Isostichopus fuscus), a critically endangered species in part due to the illegal commercial harvesting of them around the islands. [^26]</em></sub>
-    </td>
-  </tr>
-</table>
-<table style="float: left; width: auto; margin-right: 20px; margin-bottom: 10px;">
-  <tr>
-    <td align="center" style="max-width: 250px;">
-      <img src="images/Island(lobster).jpg" alt="Red spiny lobster" width="250">
-      <br>
-      <sub><em>Image of red spiny lobster (Panulirus penicillatus); a species showing signs of recovery after overexploitation of them around the islands. [^27]</em></sub>
-    </td>
-  </tr>
-</table>
+
 The location of Seymour Airport is particularly important because it represents one of the main entry points for people traveling from mainland Ecuador. The tourism and migration line illustrates how the islands' growing popularity created challenges that required government intervention. However, these policies did not always receive support from the people most affected by them. Puerto Ayora is marked on the map as the location of several conflicts between local fishermen and conservation officials. In a December 2000 report, South American correspondent Alex Bellos described how fishermen had taken tortoises hostage to protest the strict fishing quotas with residents saying:
-<br clear="all">
 > "They come and tell us that now we cannot do the same things we have done for a lifetime."
 >
 > Alex Bellos, Galapagos Turmoil: Tortoises Dragged into Fishing War (The Guardian, December 30, 2000). [^4]
 
+<div style="float: left; width: 250px; margin-right: 20px; margin-bottom: 10px;">
+
+  <div style="margin-bottom: 15px; text-align: center;">
+    <img src="images/Island(cucumber).jpg" alt="Brown sea cucumber" width="250">
+    <br>
+    <sub><em>Brown sea cucumber (Isostichopus fuscus), a species threatened by illegal commercial harvesting around the islands.<sup><a href="#fn26">26</a></sup></em></sub>
+  </div>
+
+  <div style="margin-bottom: 15px; text-align: center;">
+    <img src="images/Island(lobster).jpg" alt="Red spiny lobster" width="250">
+    <br>
+    <sub><em>Red spiny lobster (Panulirus penicillatus), a species showing signs of recovery following overexploitation.<sup><a href="#fn27">27</a></sup></em></sub>
+  </div>
+
+</div>
 The most notable protests occurred from 1995 to 2004 regarding fishing limits for sea cucumbers, sharks, lobsters, and the use of semi-industrial techniques. A 1995 New York Times article captures the energy and public mindset in the very beginning of this trend. Despite increased income for the Park Service, the municipalities failed to see in improvement in their quality of life, they felt neglected and in turn made dire threats including burning down facilities and slaughtering the protected wildlife. [^5] The public became more violent particularly in 1996 when protesters slit the throats of nine giant tortoises and then vandalizing and looting facilities and holding numerous individuals and animals hostage. [^6] These events demonstrate that conservation does not stop at protecting wildlife. Mainland Ecuador and the Galápagos Islands are deeply connected as represented by the line between the Manta port and Puerto Ayora. The Ecuadorian government has a long history of struggling to balance the needs of the residents and the needs of the wildlife and researchers. 
+<br clear="all">
 
 ## International Fishing and the Galápagos Marine Reserve
 
