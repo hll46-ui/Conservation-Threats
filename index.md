@@ -28,5 +28,5 @@ The Galápagos Islands are an collection of islands in the Pacific Ocean, around
 For a deeper dive into the development of the map, the selection of places, and detailed explanations of the events and legislation:
 [Read the essay](essay.html)
 
-[^1]: Galapagos Conservation Trust, [*Global relevance*](https://galapagosconservation.org.uk/about-galapagos/why-galapagos-matters/global-relevance/).
-[^2]: Galápagos Conservancy, [*Biodiversity*](https://www.galapagos.org/about_galapagos/biodiversity/).
+[^1]: Galapagos Conservation Trust, [*Global relevance*](https://galapagosconservation.org.uk/about-galapagos/why-galapagos-matters/global-relevance/) (Galapagos Conservation Trust, n.d.).
+[^2]: Galápagos Conservancy, [*Biodiversity*](https://www.galapagos.org/about_galapagos/biodiversity/) (Galápagos Conservancy, n.d.).
