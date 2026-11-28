@@ -48,11 +48,12 @@ The location of Seymour Airport is particularly important because it represents 
     <br>
     <sub><em>Red spiny lobster (Panulirus penicillatus), a species showing signs of recovery following overexploitation.<sup><a href="#fn27">27</a></sup></em></sub>
   </div>
-  
+</div>
+<div style="float: right; width: 250px; margin-left: 20px; margin-bottom: 10px;">
   <div style="margin-bottom: 15px; text-align: center;">
     <img src="images/Island(tortoise).jpg" alt="Giant tortoise" width="250">
     <br>
-    <sub><em>Galápagos giant tortoise, a species affected by historical human exploitation and introduced species.<sup><a href="#fn28">27</a></sup></em></sub>
+    <sub><em>Galápagos giant tortoise, a species affected by historical human exploitation and introduced species.<sup><a href="#fn28">28</a></sup></em></sub>
   </div>
 </div>
 The most notable protests occurred from 1995 to 2004 regarding fishing limits for sea cucumbers, sharks, lobsters, and the use of semi-industrial techniques. A 1995 New York Times article captures the energy and public mindset in the very beginning of this trend. Despite increased income for the Park Service, the municipalities failed to see an improvement in their quality of life, they felt neglected and in turn made dire threats including burning down facilities and slaughtering the protected wildlife. [^5] The public became more violent particularly in 1996 when protesters slit the throats of nine giant tortoises and then vandalizing and looting facilities and holding numerous individuals and animals hostage. [^6] These events demonstrate that conservation does not stop at protecting wildlife. Mainland Ecuador and the Galápagos Islands are deeply connected as represented by the line between the Manta port and Puerto Ayora. The Ecuadorian government has a long history of struggling to balance the needs of the residents and the needs of the wildlife and researchers. 
