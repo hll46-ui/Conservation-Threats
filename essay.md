@@ -30,12 +30,12 @@ The location of Seymour Airport is particularly important because it represents 
   <div style="margin-bottom: 15px; text-align: center;">
     <img src="images/Island(cucumber).jpg" alt="Brown sea cucumber" width="250">
     <br>
-    <p markdown="1"><sub><em>Brown sea cucumber (Isostichopus fuscus), a species threatened by illegal commercial harvesting around the islands.[^26]</em></sub></p>
+    <sub><em>Brown sea cucumber (Isostichopus fuscus), a species threatened by illegal commercial harvesting around the islands.<sup><a href="#fn:26">26</a></sup></em></sub>
   </div>
   <div style="margin-bottom: 15px; text-align: center;">
     <img src="images/Island(lobster).jpg" alt="Red spiny lobster" width="250">
     <br>
-    <p markdown="1"><sub><em>Red spiny lobster (Panulirus penicillatus), a species showing signs of recovery following overexploitation.[^27]</em></sub></p>
+    <sub><em>Red spiny lobster (Panulirus penicillatus), a species showing signs of recovery following overexploitation.<sup><a href="#fn:27">27</a></sup></em></sub>
   </div>
 </div>
 The most notable protests occurred from 1995 to 2004 regarding fishing limits for sea cucumbers, sharks, lobsters, and the use of semi-industrial techniques. A 1995 New York Times article captures the energy and public mindset in the very beginning of this trend. Despite increased income for the Park Service, the municipalities failed to see an improvement in their quality of life, they felt neglected and in turn made dire threats including burning down facilities and slaughtering the protected wildlife. [^5] The public became more violent particularly in 1996 when protesters slit the throats of nine giant tortoises and then vandalizing and looting facilities and holding numerous individuals and animals hostage. [^6] These events demonstrate that conservation does not stop at protecting wildlife. Mainland Ecuador and the Galápagos Islands are deeply connected as represented by the line between the Manta port and Puerto Ayora. The Ecuadorian government has a long history of struggling to balance the needs of the residents and the needs of the wildlife and researchers.
@@ -145,6 +145,10 @@ Finally, Ecuador's official language is Spanish, so many pieces of legislation a
 Ultimately, my map demonstrates that the Galápagos Islands have never been completely isolated from the rest of the world. Their environmental history has been shaped by migration, international markets, government policies, and conservation organizations. By placing these locations and events together geographically, the map reveals relationships that might be difficult to recognize through written descriptions alone. It shows how decisions made thousands of miles away can have consequences for a relatively small group of islands, and how international cooperation can help protect them.
 
 If you're interested in continuing to learn about the Galápagos' rich history and conservation efforts, take a look at my [Resources Page](resources.html) to find sources that may interest you or provide further detail on an event or subject you've learned about from this map. 
+
+<div markdown="1" style="display: none;">
+[^26] [^27] [^28] [^29]
+</div>
 
 [^1]: Jimmy Martínez-Ortiz, Alexandre M. Aires-da-Silva, Cleridy E. Lennert-Cody, and Mark N. Maunder, *The Ecuadorian Artisanal Fishery for Large Pelagics: Species Composition and Spatio-Temporal Dynamics* (PLOS ONE, 2015).
 [^2]: MIT 12.000 Student Research Team, *The Special Law of Galápagos* (Massachusetts Institute of Technology, 2008).
