@@ -171,18 +171,18 @@ If you're interested in continuing to learn about the Galápagos' rich history a
 [^11]: Elisa Bonaccorso et al., *International Fisheries Threaten Globally Endangered Sharks in the Eastern Tropical Pacific Ocean: The Case of the Fu Yuan Yu Leng 999 Reefer Vessel Seized Within the Galápagos Marine Reserve* (Scientific Reports, 2021).
 [^12]: Silvia Bor, *Chinese Vessel Crew Detained in Galápagos Marine Reserve Sentenced for Transport and Possession of Endangered Sharks* (WildAid, August 30, 2017).
 [^13]: Vishwanie Maharaj, *Complications of Designing Tenure Rights Programs for Highly Migratory Fisheries: Eastern Pacific Tropical Tuna Fisheries* (Food and Agriculture Organization of the United Nations, n.d.).
-[^14]: UNESCO World Heritage Centre, *Galápagos Islands: State of Conservation* (UNESCO, accessed November 27, 2026).
+[^14]: UNESCO World Heritage Centre, *Galápagos Islands: State of Conservation* (UNESCO, n.d.).
 [^15]: International Union for Conservation of Nature, *Thirteen World Heritage Sites Stay on Danger List* (IUCN, 2009).
 [^16]: UNESCO World Heritage Committee, *Decision 34 COM 7A.15: Galápagos Islands (Ecuador)* (UNESCO, 2010).
-[^17]: Galapagos Conservancy, *Project Isabela* (Galapagos Conservancy, accessed November 27, 2026).
-[^18]: Galapagos Conservation Trust, *Isabela: Island Overview* (Galapagos Conservation Trust, accessed November 27, 2026).
-[^19]: Galapagos Conservancy, *Project Pinzón* (Galapagos Conservancy, accessed November 27, 2026).
-[^20]: Galapagos Conservation Trust, *Pinzón Island Restoration* (Galapagos Conservation Trust, accessed November 27, 2026).
+[^17]: Galapagos Conservancy, *Project Isabela* (Galapagos Conservancy, n.d.).
+[^18]: Galapagos Conservation Trust, *Isabela: Island Overview* (Galapagos Conservation Trust, n.d.).
+[^19]: Galapagos Conservancy, *Project Pinzón* (Galapagos Conservancy, n.d.).
+[^20]: Galapagos Conservation Trust, *Pinzón Island Restoration* (Galapagos Conservation Trust, n.d.).
 [^21]: Council of Agriculture, *Executive Yuan (Taiwan), Directions on the Disposal of the Fins of the Shark Catches of Fishing Vessels* (January 19, 2012).
 [^22]: In First for Asia, *Taiwan to Ban Shark Finning* (TIME, 2011).
 [^23]: WildAid, *Evidence of Decline in Shark Fin Demand: China* (WildAid, August 2014).
-[^24]: UNESCO World Heritage Centre, *Galápagos Islands: State of Conservation, 2001* (UNESCO, accessed November 27, 2026).
-[^25]: Cedre, *Jessica* (Centre of Documentation, Research and Experimentation on Accidental Water Pollution, accessed November 27, 2026).
-[^26]: M. Verónica Toral-Granda, *The Use of Calcareous Spicules for the Identification of the Galápagos Sea Cucumber Isostichopus fuscus on the International Marke*t (SPC Beche-de-mer Information Bulletin 22, July 2005), pp. 3–5.
+[^24]: UNESCO World Heritage Centre, *Galápagos Islands: State of Conservation, 2001* (UNESCO, n.d.).
+[^25]: Cedre, *Jessica* (Centre of Documentation, Research and Experimentation on Accidental Water Pollution, n.d.).
+[^26]: M. Verónica Toral-Granda, *The Use of Calcareous Spicules for the Identification of the Galápagos Sea Cucumber Isostichopus fuscus on the International Market* (SPC Beche-de-mer Information Bulletin 22, July 2005), pp. 3–5.
 [^27]: Castrejón Mauricioa, Viteri Cesarb, Moreno Jersonb, Vera Marianab, and Luis Suárez, *Galapagos Islands, Ecuador: Improving the Spiny Lobster Fishery in the Galapagos Marine Reserve* (Conservation International, January 2017), pp. 1-5.
 [^28]: John Potts, *Galapagos Tortoise: Where, When & How to Spot These Gentle Giants* (Happy Gringo Travel, n.d.).
