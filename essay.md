@@ -26,7 +26,7 @@ The location of Seymour Airport is particularly important because it represents 
 > Alex Bellos, Galapagos Turmoil: Tortoises Dragged into Fishing War (The Guardian, December 30, 2000). [^4]
 <br>
 <br>
-<div style="float: left; width: auto; margin-right: 20px; margin-bottom: 10px;">
+<div style="float: left; width: 250px; margin-right: 20px; margin-bottom: 10px;">
   <div style="margin-bottom: 15px; text-align: center;">
     <img src="images/Island(cucumber).jpg" alt="Brown sea cucumber" width="250">
     <br>
