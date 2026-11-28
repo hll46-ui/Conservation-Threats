@@ -94,9 +94,9 @@ Not all fishing pressure came from overseas. Manta is Ecuador's major tuna port 
   </tr>
 </table>
 Not all international connections have contributed to environmental threats. My map also includes UNESCO's World Heritage Centre in Paris, the International Union for Conservation of Nature (IUCN) in Gland, Switzerland, and the Galápagos Conservation Trust (GCT) in London. These are horizontal places because, from a distance, they connected the islands to international oversight, scientific expertise, and funding.
-<br clear="all">
 
 UNESCO first recognized the Galápagos as a World Heritage Site in 1978 and added the marine reserve in 2001. [^9] In 2007, the islands were placed on the List of World Heritage in Danger at Ecuador's own request. UNESCO's records point to threats such as invasive species, a high immigration rate, unsustainable tourism development, and excessive fishing pressure in the reserve. [^14] On the map, a line from Paris leads to the 2001 World Heritage Site and a line from Gland leads to the 2007 In Danger listing. IUCN, which advises UNESCO on natural sites, took part in the April 2007 mission to the islands and recommended the danger listing. [^14] [^15] In 2010, the World Heritage Committee removed the islands from the danger list after recognizing Ecuador's progress on corrective measures, while still asking for follow-up on remaining concerns. [^16]
+<br clear="all">
 <br>
 <table style="float: left; width: auto; margin-right: 20px; margin-bottom: 10px;">
   <tr>
