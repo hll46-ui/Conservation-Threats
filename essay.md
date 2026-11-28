@@ -33,7 +33,7 @@ When looking at the map, an important connection between Guayaquil and Seymour A
 <table style="float: left; width: auto; margin-right: 20px; margin-bottom: 10px;">
   <tr>
     <td align="center" style="max-width: 250px;">
-      <img src="images/Island(1).jpg" alt="Brown sea cucumber" width="250">
+      <img src="images/Island(cucumber).jpg" alt="Brown sea cucumber" width="250">
       <br>
       <sub><em>Image of Isostichopus fuscus, commonly known as the brown sea cucumber, a critically endangered species in part due to the illegal commercial harvesting of them around the islands.</em></sub>
     </td>
