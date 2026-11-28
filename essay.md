@@ -107,7 +107,7 @@ UNESCO first recognized the Galápagos as a World Heritage Site in 1978 and adde
 </table>
 The Galápagos Conservation Trust, established in London in 1995, is a different kind of horizontal place: a charity that raises support abroad for conservation in the islands. [^3] My map connects London to two restoration projects, which are vertical places because their results can be seen on particular islands. Project Isabela, initiated in 1997 and completed in 2006, set out to remove introduced goats, pigs, and donkeys from northern Isabela, Santiago, and Pinta, after goats had devastated the vegetation and tortoise habitat on Alcedo Volcano. [^17] GCT was one of several organizations that supported it. [^18] Project Pinzón followed. Introduced black rats had prevented Pinzón giant tortoise hatchlings from surviving for roughly a century. In December 2012, the Galápagos National Park Directorate, Island Conservation, and other partners eradicated the rats, and in December 2014 researchers found the first surviving wild hatchlings in more than 100 years. [^19] GCT lists the island's restoration among its projects. [^20] Together, these projects show how scientific research, international funding, and cooperation with Ecuadorian conservation authorities have helped restore damaged ecosystems.
 <br clear="all">
-<div style="float: left; width: 250px; margin-right: 20px; margin-bottom: 10px;">
+<div style="float: right; width: 250px; margin-left: 20px; margin-bottom: 10px;">
   <div style="margin-bottom: 15px; text-align: center;">
     <img src="images/Island(yao).jpg" alt="Yao Ming ad" width="250">
     <br>
@@ -138,7 +138,7 @@ One limitation of my map is that it cannot show the full extent of environmental
     <td align="center" style="max-width: 250px;">
       <img src="images/Island(6).jpg" alt="Research Center Map" width="250">
       <br>
-      <sub><em>Image taken by Hannah Landman of map displayed at the Charles Darwin Research Center.</em></sub>
+      <sub><em>Image taken by Hannah Landman of map displayed at the Charles Darwin Research Center (June 28, 2022).</em></sub>
     </td>
   </tr>
 </table>
