@@ -13,7 +13,6 @@
    "properties": {
     "Name": "Quito, Ecuador",
     "Description": "Seat of Ecuador's national government. It passed the 1998 Special Law and prosecuted the crew of the Chinese vessel Fu Yuan Yu Leng 999 in 2017.",
-    "Source": "https://www.fiscalia.gob.ec/corte-nacional-acepto-recurso-de-casacion-por-delito-contra-la-flora-y-fauna-silvestres-en-galapagos/",
     "Type": "Connected",
     "Place_Type": "Horizontal",
     "Date": "1998-2019"
@@ -31,7 +30,6 @@
    "properties": {
     "Name": "Paris, France",
     "Description": "Home of UNESCO's World Heritage Centre. It added the marine reserve to the World Heritage Site in 2001 and listed the islands as In Danger from 2007 to 2010.",
-    "Source": "https://whc.unesco.org/en/list/001/",
     "Type": "Connected",
     "Place_Type": "Horizontal",
     "Date": "2001, 2007-2010"
@@ -49,7 +47,6 @@
    "properties": {
     "Name": "London, United Kingdom",
     "Description": "Home of the Galápagos Conservation Trust, founded in 1995, which raises support abroad for conservation in the islands.",
-    "Source": "https://galapagosconservation.org.uk/30-years-of-galapagos-conservation-trust/",
     "Type": "Connected",
     "Place_Type": "Horizontal",
     "Date": "1995"
@@ -67,7 +64,6 @@
    "properties": {
     "Name": "Gland, Switzerland",
     "Description": "Headquarters of the IUCN, which took part in UNESCO's 2007 assessment of threats to the islands.",
-    "Source": "https://whc.unesco.org/en/news/322",
     "Type": "Connected",
     "Place_Type": "Horizontal",
     "Date": "2007"
@@ -85,7 +81,6 @@
    "properties": {
     "Name": "Manta, Ecuador",
     "Description": "Ecuador's main tuna port. It links mainland fishing to the islands' marine resources.",
-    "Source": "https://fao.org/fishery/static/tenure-user-rights/root/volume6/C610.pdf",
     "Type": "Connected",
     "Place_Type": "Horizontal",
     "Date": "1990-2010"
@@ -103,7 +98,6 @@
    "properties": {
     "Name": "Guayaquil, Ecuador",
     "Description": "Mainland port city and starting point for much of the migration and tourism travel to the islands in the 1980s to 2000s.",
-    "Source": null,
     "Type": "Connected",
     "Place_Type": "Horizontal",
     "Date": "1990-2010"
@@ -121,7 +115,6 @@
    "properties": {
     "Name": "Guangzhou, China",
     "Description": "Major southern China market for shark fin. It stands in for international seafood demand that pressures the Galápagos.",
-    "Source": "https://search.issuelab.org/resource/evidence_of_decline_in_shark_fin_demand_china",
     "Type": "Connected",
     "Place_Type": "Horizontal",
     "Date": "1990-2017"
@@ -139,7 +132,6 @@
    "properties": {
     "Name": "Tokyo, Japan",
     "Description": "Stands in for Japan's large seafood market and international demand for tuna.",
-    "Source": null,
     "Type": "Connected",
     "Place_Type": "Horizontal",
     "Date": "1980-2000"
@@ -157,7 +149,6 @@
    "properties": {
     "Name": "Galápagos Marine Reserve",
     "Description": "Created by the 1998 Special Law, it protects waters 40 nautical miles around the islands. It followed a smaller 1986 reserve.",
-    "Source": "https://www.mdpi.com/2071-1050/10/4/1228",
     "Type": "Within",
     "Place_Type": "Vertical",
     "Date": "1986"
@@ -175,7 +166,6 @@
    "properties": {
     "Name": "Puerto Ayora, Santa Cruz Island",
     "Description": "Fishermen protested fishing limits here from 1994 to 2004. They occupied park facilities, killed giant tortoises, and blockaded the Charles Darwin Research Station.",
-    "Source": "https://octogroup.org/news/ecuadorian-government-agrees-review-galapagos-fisheries-regulations-following-seizure/\nhttps://www.sfgate.com/news/article/turmoil-in-paradise-galapagos-fishermen-revolt-3236289.php",
     "Type": "Within",
     "Place_Type": "Vertical",
     "Date": "1994-2004"
@@ -193,7 +183,6 @@
    "properties": {
     "Name": "Seymour Airport, Baltra Island",
     "Description": "Main entry point from the mainland. The 1998 Special Law added residency and migration controls to limit population growth and protect the islands.",
-    "Source": "https://whc.unesco.org/en/soc/2191",
     "Type": "Within",
     "Place_Type": "Vertical",
     "Date": "1998"
@@ -211,7 +200,6 @@
    "properties": {
     "Name": "Isabela Island",
     "Description": "Site of Project Isabela (1997 to 2006), which removed goats and other invasive mammals from northern Isabela, Santiago, and Pinta.",
-    "Source": "https://www.galapagos.org/conservation/project-isabela/",
     "Type": "Within",
     "Place_Type": "Vertical",
     "Date": "1997-2006"
@@ -229,7 +217,6 @@
    "properties": {
     "Name": "Schiavoni Reef, San Cristóbal Island",
     "Description": "The tanker Jessica ran aground here in January 2001 and spilled diesel and bunker fuel near Puerto Baquerizo Moreno.",
-    "Source": "https://whc.unesco.org/en/decisions/5876/",
     "Type": "Within",
     "Place_Type": "Vertical",
     "Date": "2001"
@@ -247,7 +234,6 @@
    "properties": {
     "Name": "Galápagos World Heritage Site (Marine Reserve)",
     "Description": "UNESCO extended the World Heritage Site to include the Galápagos Marine Reserve in 2001.",
-    "Source": "https://whc.unesco.org/en/list/1/",
     "Type": "Within",
     "Place_Type": "Vertical",
     "Date": "2001"
@@ -265,7 +251,6 @@
    "properties": {
     "Name": "San Cristóbal Airport, San Cristóbal Island",
     "Description": "One of two commercial airports in the islands, with Seymour. Both are regulated by the biosecurity agency ABG, created in 2012.",
-    "Source": null,
     "Type": "Within",
     "Place_Type": "Vertical",
     "Date": "2003"
@@ -283,7 +268,6 @@
    "properties": {
     "Name": "Galápagos World Heritage Site (In Danger)",
     "Description": "UNESCO listed the islands as World Heritage in Danger from 2007 to 2010 over invasive species, migration, and tourism.",
-    "Source": "https://whc.unesco.org/en/list/1/",
     "Type": "Within",
     "Place_Type": "Vertical",
     "Date": "2007"
@@ -300,8 +284,7 @@
    "type": "Feature",
    "properties": {
     "Name": "Pinzón Island",
-    "Description": "Rats were removed in December 2012. Wild-born tortoise hatchlings were found in 2014, the first in over a century.",
-    "Source": "https://www.galapagos.org/conservation/project-pinzon/",
+    "Description": "Site of Project Pinzón (2012 to 2014), which removed invasive black rats from the island. Wild-born tortoise hatchlings followed in 2014, the first in over a century.",
     "Type": "Within",
     "Place_Type": "Vertical",
     "Date": "2012-2014"
@@ -319,7 +302,6 @@
    "properties": {
     "Name": "Punta Pitt, San Cristóbal Island",
     "Description": "The Chinese vessel Fu Yuan Yu Leng 999 was detained about 12 miles north of here in August 2017 carrying 7,639 sharks.",
-    "Source": "https://www.nature.com/articles/s41598-021-94126-3",
     "Type": "Within",
     "Place_Type": "Vertical",
     "Date": "2015-2019"
@@ -337,7 +319,6 @@
    "properties": {
     "Name": "The Galápagos Islands",
     "Description": "Volcanic archipelago in the Pacific, about 1,000 km west of mainland Ecuador. It is a province of Ecuador.",
-    "Source": "https://whc.unesco.org/en/list/1/",
     "Type": "Within",
     "Place_Type": "Vertical",
     "Date": "1979-2019"
@@ -355,7 +336,6 @@
    "properties": {
     "Name": "Taiwan",
     "Description": "Adopted rules against shark finning at sea in 2012, reported as the first Asian government to do so.",
-    "Source": "https://faolex.fao.org/docs/pdf/tw155711E.pdf\nhttps://newsfeed.time.com/?p=110768",
     "Type": "Connected",
     "Place_Type": "Horizontal",
     "Date": "2012"
@@ -373,7 +353,6 @@
    "properties": {
     "Name": "Beijing, China",
     "Description": "WildAid public service announcements with Yao Ming urged people to give up shark fin soup (2006 campaign).",
-    "Source": "https://search.issuelab.org/resource/evidence_of_decline_in_shark_fin_demand_china",
     "Type": "Connected",
     "Place_Type": "Horizontal",
     "Date": "2006, 2009-2011"

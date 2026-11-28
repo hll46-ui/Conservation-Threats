@@ -11,33 +11,21 @@
   {
    "type": "Feature",
    "properties": {
-    "Name": "Guangzhou to Punta Pitt",
-    "Description": "Symbolizes international shark fin demand. It is not an actual vessel route.",
+    "Name": "Fishing: Guangzhou and Punta Pitt",
+    "Description": "Shark fin demand in Guangzhou. Symbolic, not a vessel route.",
     "Date": "1990-2017",
     "layer": "Fishing"
    },
    "geometry": {
-    "type": "MultiLineString",
+    "type": "LineString",
     "coordinates": [
      [
-      [
-       113.258013,
-       23.112853
-      ],
-      [
-       180,
-       13.014570180937381
-      ]
+      -89.246439,
+      -0.716743
      ],
      [
-      [
-       -180,
-       13.014570180937381
-      ],
-      [
-       -89.24643900000001,
-       -0.716743
-      ]
+      113.258013,
+      23.112853
      ]
     ]
    }
@@ -45,33 +33,21 @@
   {
    "type": "Feature",
    "properties": {
-    "Name": "Tokyo to Punta Pitt",
-    "Description": "Symbolizes East Asian tuna demand. It is not an actual vessel route.",
+    "Name": "Fishing: Tokyo and Punta Pitt",
+    "Description": "Tuna demand in Tokyo. Symbolic, not a vessel route.",
     "Date": "1980-2000",
     "layer": "Fishing"
    },
    "geometry": {
-    "type": "MultiLineString",
+    "type": "LineString",
     "coordinates": [
      [
-      [
-       139.770808,
-       35.667751
-      ],
-      [
-       180,
-       24.492853836639505
-      ]
+      -89.246439,
+      -0.716743
      ],
      [
-      [
-       -180,
-       24.492853836639505
-      ],
-      [
-       -89.24643900000001,
-       -0.716743
-      ]
+      139.770808,
+      35.667751
      ]
     ]
    }
@@ -79,8 +55,8 @@
   {
    "type": "Feature",
    "properties": {
-    "Name": "Manta to Puerto Ayora",
-    "Description": "Links Ecuador's mainland fishing economy to the fishing-limit protests in Puerto Ayora.",
+    "Name": "Domestic Fishing: Manta and Puerto Ayora",
+    "Description": "Mainland fishing economy tied to the fishing-limit protests.",
     "Date": "1994-2004",
     "layer": "Domestic fishing"
    },
@@ -88,12 +64,12 @@
     "type": "LineString",
     "coordinates": [
      [
-      -80.72601,
-      -0.94044
-     ],
-     [
       -90.313786,
       -0.742586
+     ],
+     [
+      -80.72601,
+      -0.94044
      ]
     ]
    }
@@ -101,8 +77,8 @@
   {
    "type": "Feature",
    "properties": {
-    "Name": "Guayaquil to Seymour Airport",
-    "Description": "Common mainland route for tourists and migrants. Entry here is why the islands' biosecurity and migration rules matter.",
+    "Name": "Tourism: Guayaquil and Seymour Airport",
+    "Description": "Common mainland route for tourists and migrants, where biosecurity matters.",
     "Date": "-1998",
     "layer": "Tourism"
    },
@@ -110,12 +86,12 @@
     "type": "LineString",
     "coordinates": [
      [
+      -90.2659,
+      -0.4531
+     ],
+     [
       -79.911814,
       -2.277331
-     ],
-     [
-      -90.2659,
-      -0.4531
      ]
     ]
    }
@@ -123,8 +99,8 @@
   {
    "type": "Feature",
    "properties": {
-    "Name": "Quito to Seymour Airport",
-    "Description": "The national government passed the 1998 Special Law, shown here at Seymour Airport.",
+    "Name": "Governing: Quito and Seymour Airport",
+    "Description": "The national government passed the 1998 Special Law.",
     "Date": "1998",
     "layer": "Governing"
    },
@@ -132,12 +108,12 @@
     "type": "LineString",
     "coordinates": [
      [
-      -78.51131,
-      -0.221173
-     ],
-     [
       -90.2659,
       -0.4531
+     ],
+     [
+      -78.51131,
+      -0.221173
      ]
     ]
    }
@@ -145,21 +121,21 @@
   {
    "type": "Feature",
    "properties": {
-    "Name": "Quito to Galápagos Marine Reserve",
-    "Description": "The national government created the marine reserve through the 1998 Special Law.",
+    "Name": "Governing: Quito and the Marine Reserve",
+    "Description": "The national government created the marine reserve in 1998.",
     "Date": "1998",
     "layer": "Governing"
    },
    "geometry": {
     "type": "LineString",
     "coordinates": [
-     [
-      -78.51131,
-      -0.221173
-     ],
      [
       -90.74812,
       -0.15443
+     ],
+     [
+      -78.51131,
+      -0.221173
      ]
     ]
    }
@@ -167,8 +143,8 @@
   {
    "type": "Feature",
    "properties": {
-    "Name": "London to Isabela Island",
-    "Description": "The Galápagos Conservation Trust was one of several supporters of Project Isabela.",
+    "Name": "Conservation: London and Isabela Island",
+    "Description": "The Galápagos Conservation Trust supported Project Isabela.",
     "Date": "1997-2006",
     "layer": "Conservation support"
    },
@@ -176,12 +152,12 @@
     "type": "LineString",
     "coordinates": [
      [
-      -0.100876,
-      51.503829
-     ],
-     [
       -91.12,
       -0.43
+     ],
+     [
+      -0.100876,
+      51.503829
      ]
     ]
    }
@@ -189,7 +165,7 @@
   {
    "type": "Feature",
    "properties": {
-    "Name": "London to Pinzón Island",
+    "Name": "Conservation: London and Pinzón Island",
     "Description": "The Galápagos Conservation Trust lists Pinzón's restoration among its projects.",
     "Date": "2012-2014",
     "layer": "Conservation support"
@@ -198,12 +174,12 @@
     "type": "LineString",
     "coordinates": [
      [
-      -0.100876,
-      51.503829
-     ],
-     [
       -90.66731,
       -0.606165
+     ],
+     [
+      -0.100876,
+      51.503829
      ]
     ]
    }
@@ -211,7 +187,7 @@
   {
    "type": "Feature",
    "properties": {
-    "Name": "Paris to World Heritage Site",
+    "Name": "Oversight: Paris and the World Heritage Site",
     "Description": "UNESCO added the marine reserve to the World Heritage Site in 2001.",
     "Date": "2001",
     "layer": "International oversight"
@@ -220,12 +196,12 @@
     "type": "LineString",
     "coordinates": [
      [
-      2.30599,
-      48.849657
-     ],
-     [
       -90.76451,
       -0.06512
+     ],
+     [
+      2.30599,
+      48.849657
      ]
     ]
    }
@@ -233,8 +209,8 @@
   {
    "type": "Feature",
    "properties": {
-    "Name": "Gland to In Danger listing",
-    "Description": "The IUCN took part in the 2007 assessment that led to the In Danger listing.",
+    "Name": "Oversight: Gland and the In Danger Listing",
+    "Description": "The IUCN took part in the 2007 assessment behind the In Danger listing.",
     "Date": "2007",
     "layer": "International oversight"
    },
@@ -242,12 +218,12 @@
     "type": "LineString",
     "coordinates": [
      [
-      6.27796,
-      46.415917
-     ],
-     [
       -90.7537,
       -0.2653
+     ],
+     [
+      6.27796,
+      46.415917
      ]
     ]
    }
